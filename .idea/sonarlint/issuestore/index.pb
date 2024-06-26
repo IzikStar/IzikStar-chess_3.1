@@ -66,3 +66,5 @@ D
 src/main/GoBack.java,9\a\9a4792d32d77c4121a813648c099cde3500a46a6
 N
 src/GUI/CustomButtonPanel.java,4\d\4d5f59550bc6e56e07ab205fe735a4bdb280e3b8
+G
+src/main/ShowScore.java,8\e\8ea4780c54980de7fe6de52bb6c998fc6654b332
