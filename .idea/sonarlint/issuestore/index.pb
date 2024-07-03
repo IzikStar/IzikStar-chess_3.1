@@ -68,3 +68,9 @@ N
 src/GUI/CustomButtonPanel.java,4\d\4d5f59550bc6e56e07ab205fe735a4bdb280e3b8
 G
 src/main/ShowScore.java,8\e\8ea4780c54980de7fe6de52bb6c998fc6654b332
+R
+"src/main/setting/SettingPanel.java,d\4\d46dcc724aabf6efdadac322bbbdcafcd0282eb7
+H
+src/ai/Level2Engine.java,4\0\400c40b9911826561c11d8265d263821d973ddc9
+C
+src/ai/Minimax.java,7\2\72a1359bcbed2d9f684efdb0f025ea14925bf843
