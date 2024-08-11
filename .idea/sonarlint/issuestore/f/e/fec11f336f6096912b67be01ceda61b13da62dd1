@@ -1,0 +1,9 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ö¿Æ¢ýÿÿÿÿ8¿Š ï’2J$9a54d87a-cbe3-4bcd-a608-7cc8305af087
+“
+java:S1104W"PMake name a static final constant or non-public and provide accessors if needed.( þÍ¾8ÀŠ ï’2J$88deffb8-550f-4c5a-9259-2011f719c578
+œ
+java:S1104X"TMake position a static final constant or non-public and provide accessors if needed.(ïˆ™Žüÿÿÿÿ8ÀŠ ï’2J$b70f3913-e543-42f8-b0c0-700c755095ff
+l	java:S106N"+Replace this use of System.out by a logger.(ø¿ôT8ÆŠ ï’2J$e0bcae85-4d28-4301-b071-9829668294b3
+„	java:S125ª"<This block of commented-out lines of code should be removed.(ôµïŠùÿÿÿÿ8ØŠ ï’2J$a8ca540e-1ddf-40f5-a958-814eb89a4a7c
+„	java:S125¼"<This block of commented-out lines of code should be removed.(÷ùÄÁúÿÿÿÿ8ÚŠ ï’2J$3786d493-b3f1-48ce-91eb-5b3cc6c07bae

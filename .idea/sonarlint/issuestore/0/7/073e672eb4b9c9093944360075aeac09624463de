@@ -1,0 +1,26 @@
+
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ã‘¶Z8…Ìù—”2
+x
+java:S1104"VMake movesStack a static final constant or non-public and provide accessors if needed.(ÈœôÇÿÿÿÿÿ8†Ìù—”2
+R
+java:S1444"0Make this "public static movesStack" field final(ÈœôÇÿÿÿÿÿ8‡Ìù—”2
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÈœôÇÿÿÿÿÿ8“Ìù—”2
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(„¬–éøÿÿÿÿ8“Ìù—”2
+m
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¾Ä¬ó8“Ìù—”2
+D
+java:S3010"'Remove this assignment of "movesStack".(–·ş¸8–Ìù—”2
+B
+java:S2386"%Make member "movesStack" "protected".(–·ş¸8–Ìù—”2
+R
+java:S2209"5Change this instance-reference to a static reference.(–·ş¸8—Ìù—”2
+€
+java:S3252"^Use static access with "javax.swing.ScrollPaneConstants" for "HORIZONTAL_SCROLLBAR_AS_NEEDED".(ÑÍä¹ùÿÿÿÿ8Ìù—”2
+y
+java:S3252"\Use static access with "javax.swing.ScrollPaneConstants" for "VERTICAL_SCROLLBAR_AS_NEEDED".(šƒùÎ8Ìù—”2
+S
+java:S2696 "6Make the enclosing method "static" or remove this set.(­Å”8 Ìù—”2
+R
+java:S2209 "5Change this instance-reference to a static reference.(­Å”8 Ìù—”2

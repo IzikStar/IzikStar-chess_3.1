@@ -1,0 +1,18 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ö¿Æ¢ýÿÿÿÿ8¦€×Þ’2J$b6cdd94c-ab6f-438d-8ee4-1579118b7a17
+”
+java:S1104"QMake piece a static final constant or non-public and provide accessors if needed.(ŽúŠ˜8¦€×Þ’2J$e2e2e713-b648-4ea3-8eb0-1a456dcb08dc
+Ÿ
+java:S1104	"WMake newPosition a static final constant or non-public and provide accessors if needed.(‰Ÿ¤–ýÿÿÿÿ8§€×Þ’2J$1ec81aec-8587-4312-a4be-f1c1ae3f1886
+¦
+java:S1104"^Make otherPieceToChange a static final constant or non-public and provide accessors if needed.(ÔÝæ¥øÿÿÿÿ8§€×Þ’2J$d2e2f592-954b-4b4b-a19f-e801826a1ac9
+ž
+java:S1104"VMake isCastling a static final constant or non-public and provide accessors if needed.(ò‹ÖÜüÿÿÿÿ8§€×Þ’2J$44ee9005-dc2e-4875-933c-003c64fab2a8
+š
+java:S1104"WMake isEnPassant a static final constant or non-public and provide accessors if needed.(‹–µì8§€×Þ’2J$ba7db969-6071-40cf-8130-d4237d9c75f3
+ž
+java:S1104"[Make promotionChoice a static final constant or non-public and provide accessors if needed.(™èªÐ8§€×Þ’2J$572cd3b1-77f1-4bdf-8878-ea277bdfc256
+É
+java:S1186'"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(îü„ðûÿÿÿÿ8¯€×Þ’2J$44ba59f4-6a14-408b-ac27-007f378dca13
+{
+java:S1128"8Remove this unused import 'ai.openingBook.OpeningEntry'.(ÖûùÃ8ãÖ»á’2J$22426ab5-a64a-4b33-9d3c-e82916c36bdc

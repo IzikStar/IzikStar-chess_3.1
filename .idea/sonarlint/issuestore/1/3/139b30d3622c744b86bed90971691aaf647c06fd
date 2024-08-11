@@ -1,0 +1,12 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Âë¡¹øÿÿÿÿ8Ñø—ç’2J$959227f1-5926-4d67-aad8-5cb87b995c48
+™
+java:S1104"VMake colorIndex a static final constant or non-public and provide accessors if needed.(äÇª8Ñø—ç’2J$2c40ca81-e919-436b-980c-8ad88007d1c9
+¹
+java:S1319Š"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ïµÙ‚úÿÿÿÿ8Ñø—ç’2J$0e3bb0e2-8ba1-4351-b056-101bc84f98ca
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ö£¹§8×ø—ç’2J$38662855-1b1e-4390-a520-345a8f9edb90
+„	java:S125"<This block of commented-out lines of code should be removed.(¾ıÔ‰ıÿÿÿÿ8Üø—ç’2J$a4b75a27-1e94-4be3-9a41-f1a520bbebdd
+„	java:S125©"<This block of commented-out lines of code should be removed.(°Š‚üşÿÿÿÿ8ßø—ç’2J$0fe8124f-3d6b-407b-bab3-0aed1135abc8
+m	java:S106µ"+Replace this use of System.out by a logger.(¢ñÜ8ßø—ç’2J$f43e9221-ebc5-429b-97a8-1ef2e03ff129
+s	java:S106¸"+Replace this use of System.out by a logger.(ìÒ¹Àøÿÿÿÿ8ßø—ç’2J$ba59dbab-cd5f-4444-abf0-a7463d116d4b
