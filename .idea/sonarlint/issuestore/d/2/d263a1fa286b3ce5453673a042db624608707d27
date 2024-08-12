@@ -1,0 +1,76 @@
+
+E
+java:S1604<"(Make this anonymous inner class a lambda(óï„‰8â¢ª”2
+
+java:S1104"_Make fenStartingPosition a static final constant or non-public and provide accessors if needed.(ûÄ¹‚şÿÿÿÿ8¡â¢ª”2
+v
+java:S1104"TMake tileSize a static final constant or non-public and provide accessors if needed.(Ï©úÄùÿÿÿÿ8¡â¢ª”2
+m
+java:S1104"PMake cols a static final constant or non-public and provide accessors if needed.(¶¤åï8¡â¢ª”2
+m
+java:S1104"PMake rows a static final constant or non-public and provide accessors if needed.(Âş¸±8¡â¢ª”2
+v
+java:S1104"YMake selectedPiece a static final constant or non-public and provide accessors if needed.(¶¨¿€8¡â¢ª”2
+s
+java:S1104!"VMake isGameOver a static final constant or non-public and provide accessors if needed.(²ğ“ö8¡â¢ª”2
+y
+java:S1104#"WMake savedStates a static final constant or non-public and provide accessors if needed.(îÁÎôıÿÿÿÿ8¡â¢ª”2
+n
+java:S1104&"QMake input a static final constant or non-public and provide accessors if needed.(ÖÇá¶8¡â¢ª”2
+}
+java:S1104."[Make promotionChoice a static final constant or non-public and provide accessors if needed.(İæù•ıÿÿÿÿ8¡â¢ª”2
+[
+java:S1444"9Make this "public static fenStartingPosition" field final(ûÄ¹‚şÿÿÿÿ8­â¢ª”2
+P
+java:S1444".Make this "public static tileSize" field final(Ï©úÄùÿÿÿÿ8­â¢ª”2
+G
+java:S1444"*Make this "public static cols" field final(¶¤åï8­â¢ª”2
+G
+java:S1444"*Make this "public static rows" field final(Âş¸±8­â¢ª”2
+P
+java:S1444"3Make this "public static selectedPiece" field final(¶¨¿€8®â¢ª”2
+c
+java:S1659-"FDeclare "hintFromR" and all following declarations on a separate line.(±®ÜØ8¼â¢ª”2
+D
+java:S1948"'Make "state" transient or serializable.(öıé·8¾â¢ª”2
+D
+java:S1948&"'Make "input" transient or serializable.(ÖÇá¶8¾â¢ª”2
+J
+java:S1948'"-Make "audioPlayer" transient or serializable.(ãËÎı8¾â¢ª”2
+H
+java:S1948("+Make "animation" transient or serializable.(ä’¥×8¾â¢ª”2
+H
+java:S1948*"+Make "showScore" transient or serializable.(’Ã“8¿â¢ª”2
+r
+java:S1149#"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(îÁÎôıÿÿÿÿ8Áâ¢ª”2
+o
+java:S3776I"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(³ıŸê8Õâ¢ª”2
+W
+java:S1161I":Add the "@Override" annotation above this method signature(³ıŸê8Õâ¢ª”2
+]	java:S125u"<This block of commented-out lines of code should be removed.(®Íˆ—ùÿÿÿÿ8îâ¢ª”2
+[
+java:S1117–"=Rename "animation" which hides the field declared at line 40.(º¡Ò¸8óâ¢ª”2
+p
+java:S3776Ù"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¾§ˆÊ8ã¢ª”2
+G
+java:S1940ã")Use the opposite operator ("!=") instead.(Ô¤˜ş8„ã¢ª”2
+M	java:S106Ü"+Replace this use of System.out by a logger.(¤íÂ—ıÿÿÿÿ8˜ã¢ª”2
+S
+java:S2696ß"6Make the enclosing method "static" or remove this set.(”­Ú8™ã¢ª”2
+?	java:S131ê""Add a default case to this switch.(¨ÕÉ8›ã¢ª”2
+Y	java:S125ÿ"<This block of commented-out lines of code should be removed.(²”ÿ•8ã¢ª”2
+^	java:S125"<This block of commented-out lines of code should be removed.(à€ùˆùÿÿÿÿ8ã¢ª”2
+S
+java:S2696…"6Make the enclosing method "static" or remove this set.(”­Ú8 ã¢ª”2
+H	java:S106"+Replace this use of System.out by a logger.(‰å“™8¡ã¢ª”2
+Y
+java:S2696¡"6Make the enclosing method "static" or remove this set.(Ô˜İ÷ùÿÿÿÿ8£ã¢ª”2
+u
+java:S3776°"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(âƒŒ¿ıÿÿÿÿ8¦ã¢ª”2
+^	java:S125´"<This block of commented-out lines of code should be removed.(Ìşîüşÿÿÿÿ8§ã¢ª”2
+^	java:S125Ã"<This block of commented-out lines of code should be removed.(ÕĞŸÚúÿÿÿÿ8¨ã¢ª”2
+^	java:S125Ì"<This block of commented-out lines of code should be removed.(ò¨÷§øÿÿÿÿ8¨ã¢ª”2
+Y	java:S125Î"<This block of commented-out lines of code should be removed.(õ†¼Î8ªã¢ª”2
+Y	java:S125ã"<This block of commented-out lines of code should be removed.(Œš§Ò8«ã¢ª”2
+ã
+java:S6541I"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 73 to 64, Complexity from 19 to 14, Nesting Level from 6 to 2, Number of Variables from 14 to 6.(³ıŸê8¾å¢ª”2

@@ -76,3 +76,5 @@ C
 src/ai/Minimax.java,7\2\72a1359bcbed2d9f684efdb0f025ea14925bf843
 V
 &src/main/setting/ChoosePlayFormat.java,f\a\fa078706cf77321ebfa9a0f6cfa4017bf120b652
+D
+src/ai/myEngine.java,5\c\5ca0d538926e6ae3732b0d20d30b7546d402cf4f
