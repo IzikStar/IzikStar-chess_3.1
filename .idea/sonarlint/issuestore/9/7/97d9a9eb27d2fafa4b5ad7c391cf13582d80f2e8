@@ -1,22 +1,22 @@
 
 £
-java:S1104"[Make promotionChoice a static final constant or non-public and provide accessors if needed.(âÅˆ”ùÿÿÿÿ8Ã‰Øİ’2J$cf909d07-bcf4-43be-9811-7363041b13ec
+java:S1104"[Make promotionChoice a static final constant or non-public and provide accessors if needed.(âÅˆ”ùÿÿÿÿ8®”†«”2J$25cf543d-25b9-42b8-89d0-25f3e68b2999
 
-java:S1104"VMake skillLevel a static final constant or non-public and provide accessors if needed.(Œ›âÛùÿÿÿÿ8Ä‰Øİ’2J$0b9ed332-25a7-4d36-9946-90a4a07447fd
+java:S1104"VMake skillLevel a static final constant or non-public and provide accessors if needed.(Œ›âÛùÿÿÿÿ8®”†«”2J$322e320a-3d8e-46d5-b315-4f9bbf8c5988
 ‹
-java:S1192I"HDefine a constant instead of duplicating this literal "readyok" 4 times.(ˆ‹ä‚8ï‰Øİ’2J$c650dbc8-6582-46ec-9f96-20bac597147e
+java:S1192I"HDefine a constant instead of duplicating this literal "readyok" 4 times.(ˆ‹ä‚8¯”†«”2J$ccee4c14-258e-4210-85f6-ebff1a25814f
 ¡
-java:S2142@"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ò¶È8ÎŒØİ’2J$43ad5a93-bb75-48a7-aa07-1ee761dc0740
+java:S2142@"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ò¶È8¯”†«”2J$f02047f0-d610-405a-ae9f-56890baacd71
 ƒ
-java:S1854`";Remove this useless assignment to local variable "endTime".(ŠâÖ¢ÿÿÿÿÿ8ŠØİ’2J$ce8f118e-56f3-4f7f-832c-06cd0dd84eac
+java:S1854`";Remove this useless assignment to local variable "endTime".(ŠâÖ¢ÿÿÿÿÿ8¯”†«”2J$a24e1605-5020-4307-8b11-7eeaaa36be71
 …
-java:S1854]"=Remove this useless assignment to local variable "startTime".(ÚÉ¬üÿÿÿÿ8Øİ’2J$cd73be76-e61f-4b97-82a9-23f6553b50cc
-r	java:S106M"+Replace this use of System.out by a logger.(õ¦°ùÿÿÿÿ8‘Øİ’2J$66baec0f-77fc-4439-a67d-255904e81ef0
+java:S1854]"=Remove this useless assignment to local variable "startTime".(ÚÉ¬üÿÿÿÿ8¯”†«”2J$4505646c-22a7-4681-8615-cdde36a02323
+~	java:S125M"<This block of commented-out lines of code should be removed.(î–º§8ù‘«”2J$69f6e493-b730-4d65-84d4-ae2385ba9d0b
 v
-java:S1481]".Remove this unused "startTime" local variable.(ÚÉ¬üÿÿÿÿ8îØİ’2J$7f4e5412-a58e-414c-a0ed-121e126694c7
+java:S1481]".Remove this unused "startTime" local variable.(ÚÉ¬üÿÿÿÿ8°”†«”2J$27c0684a-f151-4357-9c67-21658a5ff5cc
 t
-java:S1481`",Remove this unused "endTime" local variable.(ŠâÖ¢ÿÿÿÿÿ8øØİ’2J$d894a672-4503-40f2-9a0d-e6d8ad5d4644
-ƒ	java:S125a"<This block of commented-out lines of code should be removed.(¶åÅåüÿÿÿÿ8ùØİ’2J$b1f08f6b-21cd-4613-a9ad-11d9b680d797
-m	java:S106"+Replace this use of System.out by a logger.(›åı¯8¡‘Øİ’2J$1661d50d-c1d4-4cd0-a4b9-7e69094e5a04
-s	java:S106ƒ"+Replace this use of System.out by a logger.(åÎõïùÿÿÿÿ8¤‘Øİ’2J$8fb65f22-5221-4181-afb1-8e94caed637e
-s	java:S106ˆ"+Replace this use of System.out by a logger.(¹İÜ„ıÿÿÿÿ8¬‘Øİ’2J$f1740a53-407b-44b6-97f4-cab4ab0228d6
+java:S1481`",Remove this unused "endTime" local variable.(ŠâÖ¢ÿÿÿÿÿ8°”†«”2J$198c412c-e2ac-4ce5-ad21-89b9f9c96a9c
+ƒ	java:S125a"<This block of commented-out lines of code should be removed.(¶åÅåüÿÿÿÿ8°”†«”2J$fc368b39-a217-4aa7-8c2d-ed55639aeefb
+m	java:S106"+Replace this use of System.out by a logger.(›åı¯8°”†«”2J$be70b0c8-bc43-4815-b788-17e806d1c1f0
+s	java:S106ƒ"+Replace this use of System.out by a logger.(åÎõïùÿÿÿÿ8°”†«”2J$72e67dde-94e1-45f6-a56e-2174adcbe235
+s	java:S106ˆ"+Replace this use of System.out by a logger.(¹İÜ„ıÿÿÿÿ8°”†«”2J$821dcff7-3c26-4d3a-8b6d-ac7460313f2d
