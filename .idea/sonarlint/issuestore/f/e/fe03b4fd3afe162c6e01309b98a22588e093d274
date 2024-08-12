@@ -1,0 +1,31 @@
+
+”
+java:S1104"QMake board a static final constant or non-public and provide accessors if needed.(¶¼Ø•8 ÂÀë’2J$e7b121c3-db22-4535-a7b2-0ad62b96b10b
+›
+java:S1104"XMake computerGame a static final constant or non-public and provide accessors if needed.(ğÃ„â8¡ÂÀë’2J$bccd54d0-fe94-4d27-b06d-0c7b67dd87fa
+n
+java:S1444"+Make this "public static board" field final(¶¼Ø•8¢ÂÀë’2J$acd22d9b-16d8-470b-8799-a72ad407c0f8
+u
+java:S1444"2Make this "public static computerGame" field final(ğÃ„â8¢ÂÀë’2J$f6837771-2b2b-4500-b233-783eea0eaa38
+
+java:S1192n"FDefine a constant instead of duplicating this literal "Arial" 3 times.(Î»¼üÿÿÿÿ8¢ÂÀë’2J$f42356ae-7db3-4685-94bf-0422ab81e59e
+¹
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78¦ÂÀë’2J$d4c376b5-c683-4065-b058-73852d8ad0ca
+r
+java:S1874"/Remove this use of "install"; it is deprecated.(©¹´˜8§ÂÀë’2J$a27735cc-77f2-46c9-9ef7-636a5c56ea78
+…
+java:S3252"=Use static access with "java.awt.Frame" for "MAXIMIZED_BOTH".(Ê¤³ñúÿÿÿÿ8§ÂÀë’2J$97f1bd06-7930-40cc-aa57-a488566daf8a
+Œ
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´8§ÂÀë’2J$c7df3944-47fa-40cc-a71e-91c34783158d
+~	java:S1254"<This block of commented-out lines of code should be removed.(ôŠØ8©ÂÀë’2J$d50e65e1-46c8-449d-af1e-0402fa0487f0
+o
+java:S1602=",Remove useless curly braces around statement(Òáƒ­8ªÂÀë’2J$f2c75fa3-0243-4fc4-a254-2ce239b46444
+o
+java:S1602C",Remove useless curly braces around statement( ËÿÖ8ªÂÀë’2J$5a8d71d3-c525-4190-a2cd-f4cffe564966
+t
+java:S1602I",Remove useless curly braces around statement(ĞŒÁùÿÿÿÿ8«ÂÀë’2J$6f29baa4-7dab-4ca3-a26e-7f611227f755
+m	java:S106R"+Replace this use of System.out by a logger.(ÿÒüë8«ÂÀë’2J$e2998075-2c50-4828-b79c-f3b5e718a406
+~	java:S125"<This block of commented-out lines of code should be removed.(“ ç«8®ÂÀë’2J$e08b9e6f-687f-433b-9b93-0c403404244f
+	java:S125‹"<This block of commented-out lines of code should be removed.(èàìì8±ÂÀë’2J$1f59dc66-2588-4fa9-af42-33df9435cf8d
+k
+java:S1128"(Remove this unused import 'ai.myEngine'.(‘›ÒÔ8´ÂÀë’2J$152b7c09-b399-46e3-a8e6-6b067bf09178

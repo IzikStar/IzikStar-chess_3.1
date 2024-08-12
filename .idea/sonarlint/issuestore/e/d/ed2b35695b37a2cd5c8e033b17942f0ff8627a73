@@ -1,0 +1,25 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ö¿Æ¢ıÿÿÿÿ8Ûê‡õ’2J$f30f909c-09cc-4301-a111-f652eba7187d
+¶
+java:S1488ª"rImmediately return this expression instead of assigning it to the temporary variable "passedPawnsAndBlockedPawns".(Æ¬ñÑ8ßê‡õ’2J$3b3cdb6c-8407-49c2-8e7b-c7e6766b4dfb
+|
+java:S1144¬"3Remove this unused private "getPiecesValue" method.(„×öûÿÿÿÿ8éê‡õ’2J$26757b02-a4e4-4ff5-9260-6d5700cd3253
+€
+java:S1144¼"<Remove this unused private "getPiecesValueForAmount" method.(€ñğ«8éê‡õ’2J$7aa8305a-91cc-4c7a-9430-392ddc036614
+~
+java:S1144æ":Remove this unused private "getIsKingsBehindPawns" method.(ŞÅÀ¿8éê‡õ’2J$d146e813-8d4e-409d-aca2-676fa55f0f62
+‹
+java:S1144©"BRemove this unused private "getPassedPawnsAndBlockedPawns" method.(ÉÙüúÿÿÿÿ8êê‡õ’2J$935e19d7-ae6c-4209-a11c-56a9fe031023
+|
+java:S1144Ç"8Remove this unused private "getPawnsInTheCenter" method.(Š™8êê‡õ’2J$9a78094d-f429-4ed4-b27e-447b50a0209f
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(ğºÙØÿÿÿÿÿ8êê‡õ’2J$26433456-94e9-4f80-b0d1-c8ec015f5356
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(»ìŠÔÿÿÿÿÿ8îê‡õ’2J$4591ac4a-2d15-4542-8de0-194f33ded819
+~	java:S125E"<This block of commented-out lines of code should be removed.(ÕÈ³8ñê‡õ’2J$34c41cfb-6ed5-4da5-86fd-40ca4db235e0
+	java:S125‡"<This block of commented-out lines of code should be removed.(Ô€—8ôê‡õ’2J$3232c705-a3b1-4856-9d2e-b4eaae6e26ac
+›
+java:S3776Ğ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ú‚ºšúÿÿÿÿ8ÿê‡õ’2J$29e56809-c45b-4ca1-ae96-509ba7d7eb66
+u
+java:S1172©",Remove this unused method parameter "board".(ÉÙüúÿÿÿÿ8‰ë‡õ’2J$27cc6995-aa03-40fd-aa65-af365a91749e
+„	java:S125µ"<This block of commented-out lines of code should be removed.(àşÕÙşÿÿÿÿ8Šë‡õ’2J$7489424a-ff5b-45bc-b962-261dd4f6419c
+„	java:S125Ë"<This block of commented-out lines of code should be removed.(ÕÖû£şÿÿÿÿ8ë‡õ’2J$5f1a404d-d79b-42c2-8402-0fb258d5d61e
