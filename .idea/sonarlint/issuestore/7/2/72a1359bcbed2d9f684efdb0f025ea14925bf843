@@ -1,52 +1,52 @@
 
 ˜
-java:S1104"UMake bestMoves a static final constant or non-public and provide accessors if needed.(ò¨ş8Øó»é’2J$1986d076-98b9-4a7b-ab11-e9d6a16d3ba4
+java:S1104"UMake bestMoves a static final constant or non-public and provide accessors if needed.(ò¨ş8óÂ¾«”2J$315cf0bc-1987-4ad9-8c89-f6fe195db7d4
 —
-java:S1104"TMake maxDepth a static final constant or non-public and provide accessors if needed.( Ç¡ü8Øó»é’2J$f66cbed2-d753-43e9-8850-0193a06e72cd
+java:S1104"TMake maxDepth a static final constant or non-public and provide accessors if needed.( Ç¡ü8óÂ¾«”2J$c7158438-071f-4654-8c65-8e02b60422b3
 —
-java:S1104"TMake prunings a static final constant or non-public and provide accessors if needed.(¢­ıÜ8Øó»é’2J$7b39a773-9d59-4092-b5fb-3c2ed9d1a1f5
+java:S1104"TMake prunings a static final constant or non-public and provide accessors if needed.(¢­ıÜ8óÂ¾«”2J$76f5517a-cb66-46d3-a13a-b633fa38cecb
 ›
-java:S1104"XMake nodesChecked a static final constant or non-public and provide accessors if needed.(ÇôÑ©8Øó»é’2J$45650106-0564-4c93-acc6-ef1a44ed8064
+java:S1104"XMake nodesChecked a static final constant or non-public and provide accessors if needed.(ÇôÑ©8óÂ¾«”2J$246f98a3-5bc2-4ff1-b675-34c473f8e11c
 
-java:S1104"[Make nodesInMaxDepth a static final constant or non-public and provide accessors if needed.(ÈÌ÷ù8Øó»é’2J$89bdf414-363c-4914-a0c9-3ffee22d88a3
+java:S1104"[Make nodesInMaxDepth a static final constant or non-public and provide accessors if needed.(ÈÌ÷ù8óÂ¾«”2J$02ffbff5-a6b8-4838-bdf1-53263c5e2792
 w
-java:S1066,"/Merge this if statement with the enclosing one.(—ª±Šıÿÿÿÿ8Øó»é’2J$47a2ce76-de9a-482d-af6e-14497e1bc913
+java:S1066,"/Merge this if statement with the enclosing one.(—ª±Šıÿÿÿÿ8óÂ¾«”2J$aea49814-464a-42c2-8db2-23b67b9814e2
 ¬
-java:S1319"iThe type of "bestMoves" should be an interface such as "List" rather than the implementation "ArrayList".(ò¨ş8Øó»é’2J$bad24a2b-f221-452f-a56c-050e196b0748
+java:S1319"iThe type of "bestMoves" should be an interface such as "List" rather than the implementation "ArrayList".(ò¨ş8õÂ¾«”2J$df75fbfd-fe2d-478e-b2c9-149b15a3bb00
 r
-java:S1444"/Make this "public static bestMoves" field final(ò¨ş8Úó»é’2J$38bdf8a2-16b2-4fa2-886f-54ff3708cc4e
+java:S1444"/Make this "public static bestMoves" field final(ò¨ş8÷Â¾«”2J$70468f91-0cd4-4b5c-92c9-ebdd80b0b4fa
 q
-java:S1444".Make this "public static maxDepth" field final( Ç¡ü8Úó»é’2J$6f996ae9-3ff5-493a-b38d-d06921b58263
+java:S1444".Make this "public static maxDepth" field final( Ç¡ü8øÂ¾«”2J$506d71eb-5b89-4f57-97a1-2934017f2030
 q
-java:S1444".Make this "public static prunings" field final(¢­ıÜ8Úó»é’2J$29519d8f-33c9-49fe-a5a9-0a0b50c556ca
+java:S1444".Make this "public static prunings" field final(¢­ıÜ8ùÂ¾«”2J$6c14751b-9628-448b-a054-fb102c40f071
 u
-java:S1444"2Make this "public static nodesChecked" field final(ÇôÑ©8Úó»é’2J$16eea72a-d407-4387-a80d-4724771001dc
+java:S1444"2Make this "public static nodesChecked" field final(ÇôÑ©8úÂ¾«”2J$80153057-acd0-4911-89f5-18a03b52f830
 x
-java:S1444"5Make this "public static nodesInMaxDepth" field final(ÈÌ÷ù8Úó»é’2J$debe332e-9a5b-4f58-925f-2823a4714c79
+java:S1444"5Make this "public static nodesInMaxDepth" field final(ÈÌ÷ù8üÂ¾«”2J$b2cf4598-c6e9-4a5a-bfec-879b33e3bfcf
 i
-java:S1659"!Declare "end" on a separate line.(œÛ®«üÿÿÿÿ8ßó»é’2J$0d431143-2c04-4c81-be9b-fbcdcdc49271
-m	java:S106"+Replace this use of System.out by a logger.(ˆüÖı8áó»é’2J$d371057f-a170-4887-988b-c1574dfa07e6
-l	java:S106-"+Replace this use of System.out by a logger.(‰äÅd8âó»é’2J$f8f73e08-8603-4a3a-a209-6e164bd1eb9f
-ƒ	java:S125."<This block of commented-out lines of code should be removed.(¥¸Éÿÿÿÿÿÿ8áó»é’2J$7505e6a4-40bc-4db2-b0b1-c19d099c16b5
-r	java:S1068"+Replace this use of System.out by a logger.(…èì”úÿÿÿÿ8âó»é’2J$c631341a-d662-488a-83d8-d07982e5734b
-m	java:S106:"+Replace this use of System.out by a logger.(·¢¢¾8èó»é’2J$15f0f023-3dc5-4911-87b4-9913b49b522c
-X	java:S1259"<This block of commented-out lines of code should be removed.(™·é›8áğµî’2
-m	java:S106;"+Replace this use of System.out by a logger.(ÒĞÕÇ8¥±åé’2J$a8ebfcb4-b56e-4be2-8071-1ad31e499d24
+java:S1659"!Declare "end" on a separate line.(œÛ®«üÿÿÿÿ8şÂ¾«”2J$99177e42-1073-424e-99df-bf404246bafc
+~	java:S125"<This block of commented-out lines of code should be removed.(ßŠÛ›8şÂ¾«”2J$40beb704-821d-40e5-a99f-e8e7eb9e80fb
+l	java:S106-"+Replace this use of System.out by a logger.(‰äÅd8şÂ¾«”2J$42911815-e5ea-4ace-983e-185dcbdb7518
+ƒ	java:S125."<This block of commented-out lines of code should be removed.(¥¸Éÿÿÿÿÿÿ8şÂ¾«”2J$ad701ea3-a4f3-4561-83e4-6bf3a6bfc8e3
+m	java:S1069"+Replace this use of System.out by a logger.(·¢¢¾8şÂ¾«”2J$6c0d764f-cb18-48c0-8c9b-96d7b712058e
+~	java:S1258"<This block of commented-out lines of code should be removed.(™·é›8şÂ¾«”2J$58dbc681-3a8a-4781-a7fe-d5d21f4a46ec
+m	java:S106:"+Replace this use of System.out by a logger.(ÒĞÕÇ8şÂ¾«”2J$59db7e0e-9e5f-4f54-9c59-a5bf93db8727
+r	java:S106;"+Replace this use of System.out by a logger.(…èì”úÿÿÿÿ8şÂ¾«”2J$f1871da7-3f27-412c-b7d0-a7ac370c19a7
 p
-java:S1481B"-Remove this unused "bitBoard" local variable.(Õõ°ˆ8Î»çé’2J$0bfc3d35-35ab-41c0-8866-98efdcfd588d
+java:S1481B"-Remove this unused "bitBoard" local variable.(Õõ°ˆ8şÂ¾«”2J$0742f68c-ba96-46fe-b48a-f12cc54c2c7d
 •
-java:S3776G"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ÿ‚ÕÃ8ãó»é’2J$8261de2f-720e-4a22-a803-484e0ec3deaa
-ƒ	java:S125H"<This block of commented-out lines of code should be removed.(à‰Óúûÿÿÿÿ8äó»é’2J$bd35d742-95d8-484e-8cc9-00d4468a769a
-~	java:S125K"<This block of commented-out lines of code should be removed.(Õè˜“8äó»é’2J$1b1cefef-d0da-411d-b6d8-57028d8d89e3
+java:S3776G"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ÿ‚ÕÃ8şÂ¾«”2J$249e6995-3da6-4b46-9366-979058ef9552
+ƒ	java:S125H"<This block of commented-out lines of code should be removed.(à‰Óúûÿÿÿÿ8ÿÂ¾«”2J$1b2961ad-7af2-47c2-ab07-062b4a6787ff
+~	java:S125K"<This block of commented-out lines of code should be removed.(Õè˜“8ÿÂ¾«”2J$eef50b88-97a3-48c1-88f0-4a0539bfddfd
 g
-java:S2386`"$Make member "bestMoves" "protected".(¹ÏìÊ8äó»é’2J$7273b1e2-2b80-4422-8ce2-61a7f3c0f9a4
-ƒ	java:S125m"<This block of commented-out lines of code should be removed.(òæ«Öıÿÿÿÿ8æó»é’2J$ae99fff9-ad25-4769-8cc3-35b9093c59ed
-~	java:S125r"<This block of commented-out lines of code should be removed.(á‰àÌ8æó»é’2J$1811758c-a831-4e22-a03e-13d484ab065f
-ƒ	java:S125w"<This block of commented-out lines of code should be removed.(¢µÙ¹şÿÿÿÿ8æó»é’2J$ee710a4c-d042-44d1-a45e-7e0bbddc732c
-„	java:S125†"<This block of commented-out lines of code should be removed.(¢µÙ¹şÿÿÿÿ8æó»é’2J$10b2edd4-bdb2-455f-8063-2d0a6a4f79d4
-„	java:S125"<This block of commented-out lines of code should be removed.(î¨òŞøÿÿÿÿ8æó»é’2J$9c5ffb3d-04f4-4bac-a5b3-7222021a98f9
-„	java:S125—"<This block of commented-out lines of code should be removed.(ÃŠßÏşÿÿÿÿ8çó»é’2J$b7991afa-52a9-4c78-81b6-e780881970b9
-s	java:S106«"+Replace this use of System.out by a logger.(Ÿ—œïşÿÿÿÿ8İøÕì’2J$f80cb53f-b541-49bc-88e3-990a7d8543b4
-	java:S125¬"<This block of commented-out lines of code should be removed.(¾ğ¬´8éó»é’2J$805c0cd0-a78e-43e4-817d-2c0d337bbf62
+java:S2386`"$Make member "bestMoves" "protected".(¹ÏìÊ8ÿÂ¾«”2J$a39b36e3-0f68-4bf6-8085-15ba2b0cbdcd
+ƒ	java:S125m"<This block of commented-out lines of code should be removed.(òæ«Öıÿÿÿÿ8ÿÂ¾«”2J$0859cfc3-c701-481d-8276-7c43bf57c1a0
+~	java:S125r"<This block of commented-out lines of code should be removed.(á‰àÌ8ÿÂ¾«”2J$e64e16f2-303d-438c-80ae-8b90cf1db6d1
+ƒ	java:S125w"<This block of commented-out lines of code should be removed.(¢µÙ¹şÿÿÿÿ8ÿÂ¾«”2J$7379d414-d5c8-4158-9197-118d07c2f00d
+„	java:S125†"<This block of commented-out lines of code should be removed.(¢µÙ¹şÿÿÿÿ8ÿÂ¾«”2J$c287d332-1636-4562-b419-bee2187d4623
+„	java:S125"<This block of commented-out lines of code should be removed.(î¨òŞøÿÿÿÿ8ÿÂ¾«”2J$1de7b6ce-a44f-4ca7-baef-098c23036cfa
+„	java:S125—"<This block of commented-out lines of code should be removed.(ÃŠßÏşÿÿÿÿ8ÿÂ¾«”2J$058ddeec-d7e7-4f06-9c17-f39325592169
+s	java:S106«"+Replace this use of System.out by a logger.(Ÿ—œïşÿÿÿÿ8ÿÂ¾«”2J$80225823-53ec-4354-bff7-56ce423e9bf3
+	java:S125¬"<This block of commented-out lines of code should be removed.(¾ğ¬´8ÿÂ¾«”2J$52fc5fe2-e5bb-4b62-83f3-120eba8a88d5
 z
-java:S1128"7Remove this unused import 'ai.BitBoard.ZobristHashing'.(òóÉİ8öÌïé’2J$fac6dec4-cd3b-4dff-a4e7-9aea191c4e64
+java:S1128"7Remove this unused import 'ai.BitBoard.ZobristHashing'.(òóÉİ8ÿÂ¾«”2J$a12eef4c-f7dc-4937-99fb-468dca448026
