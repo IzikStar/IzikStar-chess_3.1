@@ -1,73 +1,73 @@
 
-”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.( õÄóùÿÿÿÿ8‰Å”ì’2J$fee7c65a-a7b0-4f9f-a289-2ada834642b3
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.( õÄóùÿÿÿÿ8‰Å”ì’2J$0afdab57-439a-4e7a-acba-49b515d83a17
 £
-java:S1104"[Make promotionChoice a static final constant or non-public and provide accessors if needed.(Ýæù•ýÿÿÿÿ8ŠÅ”ì’2J$79accbb6-e627-4839-8193-7d7829e40e26
+java:S1104"[Make promotionChoice a static final constant or non-public and provide accessors if needed.(Ýæù•ýÿÿÿÿ8ŠÅ”ì’2J$51b109b6-b5df-4d8d-b5d4-8cf88c25c6a0
 œ
-java:S1104"TMake waitTime a static final constant or non-public and provide accessors if needed.(‰‘ýãûÿÿÿÿ8ŠÅ”ì’2J$ec801bfd-80b4-44d6-be1c-15ca09d9a913
+java:S1104"TMake waitTime a static final constant or non-public and provide accessors if needed.(‰‘ýãûÿÿÿÿ8ŠÅ”ì’2J$cf50a460-8326-4c59-ac79-f3c1e64bc416
 •
-java:S1104"RMake thread a static final constant or non-public and provide accessors if needed.(¬Ú”£8ŠÅ”ì’2J$76c6b278-c2e9-44f8-b7ad-272d798440b5
+java:S1104"RMake thread a static final constant or non-public and provide accessors if needed.(¬Ú”£8ŠÅ”ì’2J$ddfc5bab-3399-4dce-98a2-274d58d7034b
 Ÿ
-java:S1104"WMake chosenPiece a static final constant or non-public and provide accessors if needed.(ð†˜äýÿÿÿÿ8ŠÅ”ì’2J$0a556fb5-0ea2-4207-a4a4-8d44063fac54
+java:S1104"WMake chosenPiece a static final constant or non-public and provide accessors if needed.(ð†˜äýÿÿÿÿ8ŠÅ”ì’2J$70e23f4b-a10f-495c-892e-a6338bf11af1
 v
-java:S1444".Make this "public static waitTime" field final(‰‘ýãûÿÿÿÿ8ŽÅ”ì’2J$3ca4c195-0a41-4356-be1b-9f6cb4e30b49
+java:S1444".Make this "public static waitTime" field final(‰‘ýãûÿÿÿÿ8ŽÅ”ì’2J$8733d9f7-d46f-4e1d-a3b4-c241db93f6bc
 o
-java:S1444",Make this "public static thread" field final(¬Ú”£8ŽÅ”ì’2J$1ff816fa-d821-4de7-9d18-f1be3db3f750
+java:S1444",Make this "public static thread" field final(¬Ú”£8ŽÅ”ì’2J$917b6ac9-c6f8-4659-bc68-4f71c3ceab71
 y
-java:S1144–"5Remove this unused private "convertToBitMove" method.(ê‘¡û8þï–ì’2J$8fecbc13-3792-4a6d-bc75-0cb72e9c6c00
-~	java:S125%"<This block of commented-out lines of code should be removed.(Û“¤8”Å”ì’2J$16834e01-ed04-4894-bdac-505fd7f38e96
+java:S1144”"5Remove this unused private "convertToBitMove" method.(ê‘¡û8þï–ì’2J$aa1f1c49-c211-43a6-a98c-755382104b10
+~	java:S125%"<This block of commented-out lines of code should be removed.(Û“¤8”Å”ì’2J$4cd9d19c-aa70-4c63-88c5-b7767fb5cecd
 š
-java:S3776<"RRefactor this method to reduce its Cognitive Complexity from 61 to the 15 allowed.(ã‘ô þÿÿÿÿ8”Å”ì’2J$c7608261-4003-4720-a396-2df880337c61
+java:S3776<"RRefactor this method to reduce its Cognitive Complexity from 61 to the 15 allowed.(ã‘ô þÿÿÿÿ8”Å”ì’2J$f794928b-2181-436a-a6e4-5dd8c3493c51
 ¡
-java:S2142u"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8•Å”ì’2J$7f8e72af-844d-4a16-aad7-42c13f161820
+java:S2142t"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8•Å”ì’2J$fd0d87d5-5b3a-45c3-bb7e-0ee3462a7102
 y
-java:S2696O"6Make the enclosing method "static" or remove this set.(ƒÈê 8•Å”ì’2J$0a20c8c0-dbfa-4354-9fca-a058c547b26d
+java:S2696O"6Make the enclosing method "static" or remove this set.(ƒÈê 8•Å”ì’2J$55060934-250f-4997-9d82-1c0f346bc254
 Œ
-java:S3358T"DExtract this nested ternary operation into an independent statement.(à«—‰ýÿÿÿÿ8–Å”ì’2J$9934350a-ab34-4334-a774-219f3461c12b
+java:S3358T"DExtract this nested ternary operation into an independent statement.(à«—‰ýÿÿÿÿ8–Å”ì’2J$3b7886b4-882c-4781-a8bf-f163380494ac
 Œ
-java:S3358T"DExtract this nested ternary operation into an independent statement.(à«—‰ýÿÿÿÿ8–Å”ì’2J$03f774a6-a6bc-42a4-9ce5-14d23ddeac73
-r	java:S106Y"+Replace this use of System.out by a logger.(à¬áªøÿÿÿÿ8—Å”ì’2J$e03a47d9-7f9b-4cac-87ac-57e51999e1b9
+java:S3358T"DExtract this nested ternary operation into an independent statement.(à«—‰ýÿÿÿÿ8–Å”ì’2J$89386e4f-de74-4776-bfaf-2e8504967f9b
+r	java:S106Z"+Replace this use of System.out by a logger.(à¬áªøÿÿÿÿ8—Å”ì’2J$3608850e-a923-4e3e-831c-7ee6274c37e3
 y
-java:S2696["6Make the enclosing method "static" or remove this set.(è³™›8—Å”ì’2J$ca9600d2-15f3-48c4-914e-55d1567feb68
+java:S2696\"6Make the enclosing method "static" or remove this set.(è³™›8—Å”ì’2J$1577b51a-0fb8-4632-b996-6f89b3b891e4
 ~
-java:S2696\"6Make the enclosing method "static" or remove this set.(€æíúÿÿÿÿ8—Å”ì’2J$894d9b0c-f791-4e02-bd9c-b09ce4446704
+java:S2696]"6Make the enclosing method "static" or remove this set.(€æíúÿÿÿÿ8—Å”ì’2J$b89482da-3b7a-45cb-abd9-c2d600155a97
 y
-java:S2696e"6Make the enclosing method "static" or remove this set.(ƒÈê 8—Å”ì’2J$a3232729-7d13-4b4b-b355-7c4d36e34fbc
+java:S2696e"6Make the enclosing method "static" or remove this set.(ƒÈê 8—Å”ì’2J$ec9beeb9-fab5-45ba-b601-ab2049b28f59
 Œ
-java:S3358k"DExtract this nested ternary operation into an independent statement.(û¤Šýÿÿÿÿ8—Å”ì’2J$9721c093-9740-4d3f-93c0-1b810e24edc0
+java:S3358k"DExtract this nested ternary operation into an independent statement.(û¤Šýÿÿÿÿ8—Å”ì’2J$a5eacfd5-b5b9-4bd3-aad7-07f1d647c9ab
 Œ
-java:S3358l"DExtract this nested ternary operation into an independent statement.(ÿÛ‰õøÿÿÿÿ8—Å”ì’2J$e06788c3-cbdb-44b2-a135-e13d324dd362
+java:S3358l"DExtract this nested ternary operation into an independent statement.(§­ßçúÿÿÿÿ8—Å”ì’2J$3fe67a9d-3d6f-4e42-9b04-caf25c2ef5c8
 ~
-java:S2696r"6Make the enclosing method "static" or remove this set.(“÷«ûÿÿÿÿ8—Å”ì’2J$58c6d3e2-0375-43f9-8f19-368e4a8fd789
+java:S2696q"6Make the enclosing method "static" or remove this set.(“÷«ûÿÿÿÿ8—Å”ì’2J$32b8429a-2d50-46b5-b72c-e1a5b64a2467
 y
-java:S2696s"6Make the enclosing method "static" or remove this set.(ëòÜž8—Å”ì’2J$54f19b57-55f5-4ab3-8f45-37df60050f15
+java:S2696r"6Make the enclosing method "static" or remove this set.(ëòÜž8—Å”ì’2J$67c48727-17f1-44a7-9c85-03c1ff177104
 ¢
-java:S2142—"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8…ð–ì’2J$182feeb2-aa52-45d4-a992-89d27f250db6
-m	java:S106•"+Replace this use of System.out by a logger.(µõ8†ð–ì’2J$ee3f155b-276a-4f99-8813-9477673679ef
+java:S2142•"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8…ð–ì’2J$30981575-5061-448b-9c53-5f9a71f84a8e
+m	java:S106“"+Replace this use of System.out by a logger.(µõ8†ð–ì’2J$3b4aa96b-afd4-4f88-b775-ee30d4ebeae2
 –
-java:S3776´"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ùÄß8‰ð–ì’2J$5f07ef3b-3bb8-428d-958c-363fcc7a1783
-s	java:S106¶"+Replace this use of System.out by a logger.(µøŠ™øÿÿÿÿ8‰ð–ì’2J$604fc5c9-768b-4867-9358-9ea06396923c
-n	java:S106È"+Replace this use of System.out by a logger.(ò‘¯8Šð–ì’2J$3944e88a-b3f7-409d-949a-8335448e88a5
+java:S3776²"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ùÄß8‰ð–ì’2J$d6715286-97e8-4471-ba87-d24569506de5
+s	java:S106´"+Replace this use of System.out by a logger.(µøŠ™øÿÿÿÿ8‰ð–ì’2J$11c4e4a4-334b-4761-997c-3f99a9ebf315
+n	java:S106Æ"+Replace this use of System.out by a logger.(ò‘¯8Šð–ì’2J$5eb75abc-fac9-46e6-a382-be317bcf0c45
 r
-java:S2140Ë")Use "java.util.Random.nextInt()" instead.(ƒ´õ…ýÿÿÿÿ8Šð–ì’2J$7123c825-04c0-4404-919a-2503cb5ccfb4
+java:S2140É")Use "java.util.Random.nextInt()" instead.(ƒ´õ…ýÿÿÿÿ8Šð–ì’2J$16ea92ba-c621-4703-a8b4-a3f686618a12
 r
-java:S2140Ö")Use "java.util.Random.nextInt()" instead.( Ðç²øÿÿÿÿ8‹ð–ì’2J$aecc6598-821c-48d2-a397-4d4ef343b2e0
+java:S2140Ô")Use "java.util.Random.nextInt()" instead.( Ðç²øÿÿÿÿ8‹ð–ì’2J$1a4ba1b4-ad64-46ae-9c51-191241f1ad99
 r
-java:S2140è")Use "java.util.Random.nextInt()" instead.(¾ÆÉùÿÿÿÿ8Œð–ì’2J$2c831d92-9267-41e7-8835-2e5fad9884db
+java:S2140æ")Use "java.util.Random.nextInt()" instead.(¾ÆÉùÿÿÿÿ8Œð–ì’2J$99eaaeba-4949-403b-a071-597686c092fd
 
-java:S2696ù"6Make the enclosing method "static" or remove this set.(ïá‚ûÿÿÿÿ8ð–ì’2J$a55164cc-4f74-41a7-8dc5-784e0d5063b5
-s	java:S106ú"+Replace this use of System.out by a logger.(ÚëÀ‰øÿÿÿÿ8ð–ì’2J$24522bde-7257-4154-bde4-b241d4cf55f3
-s	java:S106ü"+Replace this use of System.out by a logger.(»ç¼Ìüÿÿÿÿ8ð–ì’2J$f1dcf048-52e9-4fb8-b7ae-f8e4852806d3
+java:S2696÷"6Make the enclosing method "static" or remove this set.(ïá‚ûÿÿÿÿ8ð–ì’2J$0edf70d0-c591-4c71-8431-5550312b8070
+s	java:S106ø"+Replace this use of System.out by a logger.(ÚëÀ‰øÿÿÿÿ8ð–ì’2J$f6800c33-120a-4073-9846-e93f126899da
+s	java:S106ú"+Replace this use of System.out by a logger.(»ç¼Ìüÿÿÿÿ8ð–ì’2J$fe22b7a2-01ef-4678-a4ca-8701b14181da
 
-java:S2696ý"6Make the enclosing method "static" or remove this set.(Ôò«€ùÿÿÿÿ8ð–ì’2J$2e9875d3-582d-4279-9397-631ebac7e3e5
+java:S2696û"6Make the enclosing method "static" or remove this set.(Ôò«€ùÿÿÿÿ8ð–ì’2J$9dcd0223-c68c-403d-a1d2-e0b3b1c7d63e
 z
-java:S2696ÿ"6Make the enclosing method "static" or remove this set.(À“©’8ð–ì’2J$eddf3b0d-d9ec-4272-9e56-583d8f25fc7d
-„	java:S125ƒ"<This block of commented-out lines of code should be removed.(ðÅ·¿þÿÿÿÿ8Žð–ì’2J$59da1a36-0016-4d40-9856-bfa4711f616f
-	java:S125"<This block of commented-out lines of code should be removed.(ÿ½ß8Žð–ì’2J$3474dd23-61f2-4229-a44b-ca0d8942dba6
+java:S2696ý"6Make the enclosing method "static" or remove this set.(À“©’8ð–ì’2J$565afc4f-ce5b-4ba7-98e3-90127329ddbf
+„	java:S125"<This block of commented-out lines of code should be removed.(ðÅ·¿þÿÿÿÿ8Žð–ì’2J$e965496e-6558-40a7-aae9-804d793b3882
+	java:S125Ž"<This block of commented-out lines of code should be removed.(ÿ½ß8Žð–ì’2J$400659ee-b890-42f2-9760-8989b5dce61b
 u
-java:S1172–"1Remove this unused method parameter "chosenMove".(ê‘¡û8Žð–ì’2J$2713c0d4-b932-4dca-b921-fbd867e262a0
+java:S1172”"1Remove this unused method parameter "chosenMove".(ê‘¡û8Žð–ì’2J$47da4863-60f4-4318-a556-dec521499fe8
 o
-java:S1068"'Remove this unused "fen" private field.(òÞÄ”ùÿÿÿÿ8¡Å”ì’2J$0b392139-57c2-4128-b8a4-8f72ca599667
+java:S1068"'Remove this unused "fen" private field.(òÞÄ”ùÿÿÿÿ8¡Å”ì’2J$2e72a729-99fa-430f-8f1f-ec34e90e1b54
 q
-java:S1068")Remove this unused "latch" private field.(‰ï£æýÿÿÿÿ8¡Å”ì’2J$64e9aaaf-8f4d-4a62-95b0-8490c3b4a61c
+java:S1068")Remove this unused "latch" private field.(‰ï£æýÿÿÿÿ8¡Å”ì’2J$aa760d2c-f403-4827-9cc3-8209219ec049
 l
-java:S1068 ")Remove this unused "DEPTH" private field.(Þê¢™8¡Å”ì’2J$6fd8c2d8-015e-46d6-a1c1-98f0ef04fc37
+java:S1068 ")Remove this unused "DEPTH" private field.(Þê¢™8¡Å”ì’2J$58524944-c16a-4e35-8ec0-e1b8922a8794
