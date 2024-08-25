@@ -1,33 +1,37 @@
 
 ”
-java:S1104"QMake board a static final constant or non-public and provide accessors if needed.(¶¼Ø•8•ï¶­”2J$b85f6b67-af5f-4ecf-9b2a-50ca6bc52bb4
+java:S1104"QMake board a static final constant or non-public and provide accessors if needed.(¶¼Ø•8ú‚Áş—2J$711bc83f-0908-4b7b-a9ca-7569e669dd0c
 ›
-java:S1104"XMake computerGame a static final constant or non-public and provide accessors if needed.(ğÃ„â8–ï¶­”2J$b136e666-5002-4146-a10d-14ab7e3b1724
+java:S1104"XMake computerGame a static final constant or non-public and provide accessors if needed.(ğÃ„â8û‚Áş—2J$b4df223a-a774-4ce6-9a41-08feb8efecbf
 n
-java:S1444"+Make this "public static board" field final(¶¼Ø•8™ï¶­”2J$df52762e-8e10-4b0f-b653-9fb2031c34be
+java:S1444"+Make this "public static board" field final(¶¼Ø•8ı‚Áş—2J$fa69c701-278f-41c3-af1b-089d6a618abc
 u
-java:S1444"2Make this "public static computerGame" field final(ğÃ„â8™ï¶­”2J$189e500d-8a67-4643-bc4b-92b319f81f78
+java:S1444"2Make this "public static computerGame" field final(ğÃ„â8ı‚Áş—2J$770247fd-c15a-4774-9f2c-f5cea82138ab
 
-java:S1192n"FDefine a constant instead of duplicating this literal "Arial" 3 times.(Î»¼üÿÿÿÿ8šï¶­”2J$a5f06289-76cf-4c85-bb5d-f2c123853480
+java:S1192n"FDefine a constant instead of duplicating this literal "Arial" 3 times.(Î»¼üÿÿÿÿ8ı‚Áş—2J$204b4712-f77a-4eee-b7cd-2bb833dd0a31
 ¹
-java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78£ï¶­”2J$c0f9ce68-db3c-42a9-b5cb-b7c991ef252e
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78ƒƒÁş—2J$e114974f-488c-4894-b217-31b483a33698
 r
-java:S1874"/Remove this use of "install"; it is deprecated.(©¹´˜8¤ï¶­”2J$7a73307a-200e-40f2-ae01-6085429191c0
+java:S1874"/Remove this use of "install"; it is deprecated.(©¹´˜8…ƒÁş—2J$dbf6a3a5-58ee-45c9-8668-9f8adbb79575
 …
-java:S3252"=Use static access with "java.awt.Frame" for "MAXIMIZED_BOTH".(Ê¤³ñúÿÿÿÿ8¥ï¶­”2J$eb62d195-dcd9-4195-9f98-fd975cf4717f
+java:S3252"=Use static access with "java.awt.Frame" for "MAXIMIZED_BOTH".(Ê¤³ñúÿÿÿÿ8‡ƒÁş—2J$c992a36d-cfd6-49da-a6bf-62f5f15e5a7a
 Œ
-java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´8¥ï¶­”2J$57182d57-737c-4faa-86be-561ce5f46377
-~	java:S1254"<This block of commented-out lines of code should be removed.(ôŠØ8©ï¶­”2J$19ad280f-ac07-4a45-8a51-3bc5653d1fc0
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´8ˆƒÁş—2J$6627b276-aac9-4f74-9dc3-760c898b3420
+~	java:S1254"<This block of commented-out lines of code should be removed.(ôŠØ8ˆƒÁş—2J$7523d2b6-b9e5-412b-917a-f4a99766e2f7
 o
-java:S1602=",Remove useless curly braces around statement(Òáƒ­8«ï¶­”2J$35d073bf-2ae0-4c40-9e77-b0aa3da5ca88
+java:S1602=",Remove useless curly braces around statement(Òáƒ­8ˆƒÁş—2J$48835acc-13f1-487a-a5e6-91409fec7d95
 o
-java:S1602C",Remove useless curly braces around statement( ËÿÖ8«ï¶­”2J$47cbe4fe-e18e-4852-9b6c-5d0f1dab3974
+java:S1602C",Remove useless curly braces around statement( ËÿÖ8ˆƒÁş—2J$560a4e6b-3d46-4803-9c6d-d0483745d256
 t
-java:S1602I",Remove useless curly braces around statement(ĞŒÁùÿÿÿÿ8¬ï¶­”2J$2bedbb69-e602-41fd-a8cc-4cdd65d2aee3
-m	java:S106R"+Replace this use of System.out by a logger.(ÿÒüë8­ï¶­”2J$45926d5a-51bb-42d8-8008-63419d3a0213
-~	java:S125"<This block of commented-out lines of code should be removed.(“ ç«8³ï¶­”2J$178b8f40-dc80-4165-99e5-4556bc0870ed
+java:S1602I",Remove useless curly braces around statement(ĞŒÁùÿÿÿÿ8‰ƒÁş—2J$865bf8cc-6b08-45ac-b38a-b83d4091cb6c
+m	java:S106R"+Replace this use of System.out by a logger.(ÿÒüë8ŠƒÁş—2J$d02a235c-6aba-4edb-820e-542939336bab
+~	java:S125"<This block of commented-out lines of code should be removed.(“ ç«8”ƒÁş—2J$f9473c69-581c-4bf3-861e-51172e972ee6
 –
-java:S3776ƒ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(³ª×š8›·º­”2J$a5bbb898-d1c3-45c8-b9cc-fddcbce00bf3
-s	java:S106–"+Replace this use of System.out by a logger.(Üš·Øùÿÿÿÿ8ÌÆÀ­”2J$3cd2a7d8-1f59-4656-ad48-55949ee5085a
-E
-java:S1128"(Remove this unused import 'ai.myEngine'.(‘›ÒÔ8Î‘¿¯”2
+java:S3776ƒ"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(³ª×š8˜ƒÁş—2J$7e07efcb-34ef-43d9-9051-a447832084b1
+	java:S125"<This block of commented-out lines of code should be removed.(èàìì8˜ƒÁş—2J$7379e80f-9189-47cc-85c8-c529ff877e01
+	java:S125“"<This block of commented-out lines of code should be removed.(‚üÅ8˜ƒÁş—2J$df38b608-588a-4aa6-b815-05bcd5b37424
+n	java:S106›"+Replace this use of System.out by a logger.(±ßƒ»8™ƒÁş—2J$711ce813-7775-42b1-b520-3813abaeb3b6
+	java:S125£"<This block of commented-out lines of code should be removed.(‚üÅ8™ƒÁş—2J$7cf6329e-c3e8-4d17-ad29-5cfefc8a4610
+n	java:S106«"+Replace this use of System.out by a logger.(±ßƒ»8šƒÁş—2J$188b8e4c-0abc-4d11-8b6b-c174a307daea
+k
+java:S1128"(Remove this unused import 'ai.myEngine'.(‘›ÒÔ8£ƒÁş—2J$c3afd1eb-2043-4764-a24e-fa775071a3ee

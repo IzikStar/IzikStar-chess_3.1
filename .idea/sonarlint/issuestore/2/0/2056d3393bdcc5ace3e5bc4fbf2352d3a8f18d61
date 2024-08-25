@@ -1,0 +1,19 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ö¿Æ¢ıÿÿÿÿ8†èüÎ˜2J$5ec4af3f-aed2-41c2-a2bf-2de347004abf
+¡
+java:S1104"YMake boardStateMap a static final constant or non-public and provide accessors if needed.(®õÔŒüÿÿÿÿ8†èüÎ˜2J$73601ebe-3886-47e2-87f1-5e638adee0ae
+{
+java:S1444"3Make this "public static boardStateMap" field final(®õÔŒüÿÿÿÿ8‡èüÎ˜2J$e118d530-fb48-4653-bda1-40bde4064ac9
+e
+java:S2386"Make this member "protected".(®õÔŒüÿÿÿÿ8‰èüÎ˜2J$d96c50c2-40fc-4940-8c90-9b610b46d2d5
+‚
+java:S1854-":Remove this useless assignment to local variable "board3".(Ãııÿÿÿÿ8Ëî‚Ï˜2J$ba726598-f8a0-4fd4-b47c-8f794670a6f5
+}
+java:S1854*":Remove this useless assignment to local variable "board2".(¤ÁŸş8İ—…Ï˜2J$5e75747f-517f-40b9-a1be-dd3e7ef852b7
+l	java:S106)"+Replace this use of System.out by a logger.(’¾ÿk8ä¦ıÎ˜2J$4418742c-e572-4c25-88ae-8bd75b779de6
+n
+java:S1481*"+Remove this unused "board2" local variable.(¤ÁŸş8Íî‚Ï˜2J$bd644373-fef0-4449-a708-07f924a65aed
+r	java:S106,"+Replace this use of System.out by a logger.(–Ø—˜üÿÿÿÿ8í»‚Ï˜2J$8bd2f657-7a77-4f1b-9ba4-08bb3998368f
+s
+java:S1481-"+Remove this unused "board3" local variable.(Ãııÿÿÿÿ8ß—…Ï˜2J$3eb566b2-76b5-4806-9c25-b97c10c59ba3
+r	java:S106/"+Replace this use of System.out by a logger.(Ô‡‘”úÿÿÿÿ8†‚…Ï˜2J$68a1cd2d-d1c0-4491-9dd2-a1b72fafffad

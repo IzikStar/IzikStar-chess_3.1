@@ -1,114 +1,124 @@
 
 r
-java:S1104"UMake selectedX a static final constant or non-public and provide accessors if needed.(È¤“º8úâ©¬”2
+java:S1104"UMake selectedX a static final constant or non-public and provide accessors if needed.(È¤“º8¶æãÏ˜2
 r
-java:S1104"UMake selectedY a static final constant or non-public and provide accessors if needed.(È¤“º8’ã©¬”2
+java:S1104"UMake selectedY a static final constant or non-public and provide accessors if needed.(È¤“º8·æãÏ˜2
 w
-java:S1104"[Make isStatusChanged a static final constant or non-public and provide accessors if needed.(µ³88Üã©¬”2
+java:S1104"[Make isStatusChanged a static final constant or non-public and provide accessors if needed.(µ³88·æãÏ˜2
 s
-java:S1104"WMake isCheckMate a static final constant or non-public and provide accessors if needed.(µ³88Üã©¬”2
+java:S1104"WMake isCheckMate a static final constant or non-public and provide accessors if needed.(µ³88·æãÏ˜2
 s
-java:S1104"WMake isStaleMate a static final constant or non-public and provide accessors if needed.(µ³88İã©¬”2
+java:S1104"WMake isStaleMate a static final constant or non-public and provide accessors if needed.(µ³88·æãÏ˜2
 t
-java:S1104"XMake isRepetition a static final constant or non-public and provide accessors if needed.(µ³88İã©¬”2
+java:S1104"XMake isRepetition a static final constant or non-public and provide accessors if needed.(µ³88·æãÏ˜2
 s
-java:S1104"WMake isWhiteTurn a static final constant or non-public and provide accessors if needed.(µ³88İã©¬”2
+java:S1104"WMake isWhiteTurn a static final constant or non-public and provide accessors if needed.(µ³88·æãÏ˜2
 q
-java:S1104"OMake col a static final constant or non-public and provide accessors if needed.(§â¶²şÿÿÿÿ8İã©¬”2
+java:S1104"OMake col a static final constant or non-public and provide accessors if needed.(§â¶²şÿÿÿÿ8·æãÏ˜2
 q
-java:S1104"OMake row a static final constant or non-public and provide accessors if needed.(§â¶²şÿÿÿÿ8İã©¬”2
+java:S1104"OMake row a static final constant or non-public and provide accessors if needed.(§â¶²şÿÿÿÿ8·æãÏ˜2
 |
-java:S1104"ZMake isDraggingMove a static final constant or non-public and provide accessors if needed.(¯ÕÏ»ùÿÿÿÿ8İã©¬”2
+java:S1104"ZMake isDraggingMove a static final constant or non-public and provide accessors if needed.(¯ÕÏ»ùÿÿÿÿ8·æãÏ˜2
 z
-java:S1104 "]Make switchToStockFish a static final constant or non-public and provide accessors if needed.(ß¨¢¡8İã©¬”2
+java:S1104 "]Make switchToStockFish a static final constant or non-public and provide accessors if needed.(ß¨¢¡8·æãÏ˜2
+a
+java:S2583"DChange this condition so that it does not always evaluate to "false"(²ı–Ì8¸æãÏ˜2
 l
-java:S1192p"JDefine a constant instead of duplicating this literal "Game Over" 4 times.(º¥É„ùÿÿÿÿ8Şã©¬”2
+java:S1192p"JDefine a constant instead of duplicating this literal "Game Over" 4 times.(º¥É„ùÿÿÿÿ8¼æãÏ˜2
 €
-java:S1192r"^Define a constant instead of duplicating this literal "×©×—××˜!!! ×©×—×•×¨ × ×™×¦×—" 4 times.(ôƒ¯áşÿÿÿÿ8Şã©¬”2
+java:S1192r"^Define a constant instead of duplicating this literal "×©×—××˜!!! ×©×—×•×¨ × ×™×¦×—" 4 times.(ôƒ¯áşÿÿÿÿ8¼æãÏ˜2
 D
-java:S1659"'Declare "selectedY" on a separate line.(È¤“º8Şã©¬”2
+java:S1659"'Declare "selectedY" on a separate line.(È¤“º8ÁæãÏ˜2
 d
-java:S1659"HDeclare "isCheckMate" and all following declarations on a separate line.(µ³88íã©¬”2
+java:S1659"HDeclare "isCheckMate" and all following declarations on a separate line.(µ³88ÁæãÏ˜2
 C
-java:S1659"!Declare "row" on a separate line.(§â¶²şÿÿÿÿ8ôã©¬”2
+java:S1659"!Declare "row" on a separate line.(§â¶²şÿÿÿÿ8ÁæãÏ˜2
 o
-java:S37764"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(œÀ„8÷ã©¬”2
+java:S37764"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(œÀ„8ÈæãÏ˜2
 {
-java:S2142;"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8üã©¬”2
+java:S2142;"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8ĞæãÏ˜2
 S
-java:S2696e"6Make the enclosing method "static" or remove this set.(¾ò«ğ8şã©¬”2
+java:S2696e"6Make the enclosing method "static" or remove this set.(¾ò«ğ8ÖæãÏ˜2
 R
-java:S2696f"6Make the enclosing method "static" or remove this set.(£æ8ÿã©¬”2
+java:S2696f"6Make the enclosing method "static" or remove this set.(£æ8ØæãÏ˜2
 R
-java:S2696h"6Make the enclosing method "static" or remove this set.(£æ8ÿã©¬”2
+java:S2696h"6Make the enclosing method "static" or remove this set.(£æ8ÙæãÏ˜2
 S
-java:S2696i"6Make the enclosing method "static" or remove this set.(ëòÜ8ÿã©¬”2
+java:S2696i"6Make the enclosing method "static" or remove this set.(ëòÜ8ÚæãÏ˜2
 S
-java:S2696o"6Make the enclosing method "static" or remove this set.(ƒÈê 8€ä©¬”2
+java:S2696o"6Make the enclosing method "static" or remove this set.(ƒÈê 8ÜæãÏ˜2
 f
-java:S3358r"DExtract this nested ternary operation into an independent statement.(ôƒ¯áşÿÿÿÿ8€ä©¬”2
-p
-java:S3776€"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(éŒª8‚ä©¬”2
-^	java:S125ˆ"<This block of commented-out lines of code should be removed.(êÎ”‡úÿÿÿÿ8‚ä©¬”2
-^	java:S125Š"<This block of commented-out lines of code should be removed.(Ø²ºËşÿÿÿÿ8ƒä©¬”2
-^	java:S125–"<This block of commented-out lines of code should be removed.(ˆÌ¾¼ÿÿÿÿÿ8ƒä©¬”2
-Y	java:S125£"<This block of commented-out lines of code should be removed.(§ÕÍ¬8ƒä©¬”2
-Y	java:S125¦"<This block of commented-out lines of code should be removed.(¿±¦8ƒä©¬”2
-^	java:S125ª"<This block of commented-out lines of code should be removed.(Ã¹ËËşÿÿÿÿ8ƒä©¬”2
-H	java:S106¬"+Replace this use of System.out by a logger.(•éÓø8„ä©¬”2
+java:S3358r"DExtract this nested ternary operation into an independent statement.(ôƒ¯áşÿÿÿÿ8ŞæãÏ˜2
+o
+java:S3776}"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(éŒª8ïæãÏ˜2
 Y
-java:S2696®"6Make the enclosing method "static" or remove this set.(©ºÜ¡ûÿÿÿÿ8„ä©¬”2
+java:S2696"6Make the enclosing method "static" or remove this set.(óÀÉÆúÿÿÿÿ8ğæãÏ˜2
 S
-java:S2696¯"6Make the enclosing method "static" or remove this set.(£æ8…ä©¬”2
+java:S2696‚"6Make the enclosing method "static" or remove this set.(£æ8ñæãÏ˜2
 S
-java:S2696±"6Make the enclosing method "static" or remove this set.(£æ8…ä©¬”2
+java:S2696„"6Make the enclosing method "static" or remove this set.(£æ8òæãÏ˜2
 T
-java:S2696²"6Make the enclosing method "static" or remove this set.(ëòÜ8…ä©¬”2
+java:S2696…"6Make the enclosing method "static" or remove this set.(ëòÜ8öæãÏ˜2
+^	java:S125"<This block of commented-out lines of code should be removed.(êÎ”‡úÿÿÿÿ8÷æãÏ˜2
+^	java:S125‘"<This block of commented-out lines of code should be removed.(Ø²ºËşÿÿÿÿ8øæãÏ˜2
+^	java:S125"<This block of commented-out lines of code should be removed.(ˆÌ¾¼ÿÿÿÿÿ8ùæãÏ˜2
+Y	java:S125ª"<This block of commented-out lines of code should be removed.(§ÕÍ¬8úæãÏ˜2
+Y	java:S125­"<This block of commented-out lines of code should be removed.(¿±¦8üæãÏ˜2
+^	java:S125±"<This block of commented-out lines of code should be removed.(Ã¹ËËşÿÿÿÿ8üæãÏ˜2
+H	java:S106³"+Replace this use of System.out by a logger.(•éÓø8üæãÏ˜2
+Y
+java:S2696µ"6Make the enclosing method "static" or remove this set.(©ºÜ¡ûÿÿÿÿ8üæãÏ˜2
+S
+java:S2696¶"6Make the enclosing method "static" or remove this set.(£æ8üæãÏ˜2
+S
+java:S2696¸"6Make the enclosing method "static" or remove this set.(£æ8üæãÏ˜2
 T
-java:S2696·"6Make the enclosing method "static" or remove this set.(ƒÈê 8’ä©¬”2
+java:S2696¹"6Make the enclosing method "static" or remove this set.(ëòÜ8üæãÏ˜2
+T
+java:S2696¾"6Make the enclosing method "static" or remove this set.(ƒÈê 8üæãÏ˜2
 g
-java:S3358º"DExtract this nested ternary operation into an independent statement.(ôƒ¯áşÿÿÿÿ8Ÿä©¬”2
+java:S3358Á"DExtract this nested ternary operation into an independent statement.(ôƒ¯áşÿÿÿÿ8üæãÏ˜2
 u
-java:S3776Á"RRefactor this method to reduce its Cognitive Complexity from 63 to the 15 allowed.(®î’×üÿÿÿÿ8Ïä©¬”2
+java:S3776É"RRefactor this method to reduce its Cognitive Complexity from 63 to the 15 allowed.(®î’×üÿÿÿÿ8üæãÏ˜2
 Y
-java:S2696Ï"6Make the enclosing method "static" or remove this set.(ñíõ‰øÿÿÿÿ8Ğä©¬”2
+java:S2696×"6Make the enclosing method "static" or remove this set.(ñíõ‰øÿÿÿÿ8üæãÏ˜2
 T
-java:S2696â"6Make the enclosing method "static" or remove this set.(ƒÈê 8Ğä©¬”2
+java:S2696ê"6Make the enclosing method "static" or remove this set.(ƒÈê 8üæãÏ˜2
 T
-java:S2696å"6Make the enclosing method "static" or remove this set.(ƒÈê 8Ğä©¬”2
+java:S2696í"6Make the enclosing method "static" or remove this set.(ƒÈê 8üæãÏ˜2
 g
-java:S3358ê"DExtract this nested ternary operation into an independent statement.(”¶êòÿÿÿÿÿ8Ñä©¬”2
+java:S3358ò"DExtract this nested ternary operation into an independent statement.(”¶êòÿÿÿÿÿ8üæãÏ˜2
 g
-java:S3358ê"DExtract this nested ternary operation into an independent statement.(”¶êòÿÿÿÿÿ8Ñä©¬”2
+java:S3358ò"DExtract this nested ternary operation into an independent statement.(”¶êòÿÿÿÿÿ8ıæãÏ˜2
 U
-java:S6881ó"2Use virtual threads for heavy blocking operations.(€­íÜüÿÿÿÿ8Òä©¬”2
+java:S6881û"2Use virtual threads for heavy blocking operations.(€­íÜüÿÿÿÿ8ıæãÏ˜2
 U
-java:S6881õ"2Use virtual threads for heavy blocking operations.(€­íÜüÿÿÿÿ8Òä©¬”2
+java:S6881ı"2Use virtual threads for heavy blocking operations.(€­íÜüÿÿÿÿ8ıæãÏ˜2
 
-java:S2142ö"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(™ßŞœıÿÿÿÿ8Òä©¬”2
+java:S2142ş"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(™ßŞœıÿÿÿÿ8ıæãÏ˜2
 Y
-java:S2696ù"6Make the enclosing method "static" or remove this set.(«ñªÂûÿÿÿÿ8Òä©¬”2
+java:S2696"6Make the enclosing method "static" or remove this set.(«ñªÂûÿÿÿÿ8ıæãÏ˜2
 Y
-java:S2696‡"6Make the enclosing method "static" or remove this set.(ñíõ‰øÿÿÿÿ8Òä©¬”2
+java:S2696"6Make the enclosing method "static" or remove this set.(ñíõ‰øÿÿÿÿ8ıæãÏ˜2
 T
-java:S2696"6Make the enclosing method "static" or remove this set.(ƒÈê 8Ôä©¬”2
+java:S2696–"6Make the enclosing method "static" or remove this set.(ƒÈê 8ıæãÏ˜2
 p
-java:S3776¢"RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.(ãÆĞÂ8Ôä©¬”2
+java:S3776ª"RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.(ãÆĞÂ8ıæãÏ˜2
 T
-java:S2696­"6Make the enclosing method "static" or remove this set.(ƒÈê 8Õä©¬”2
+java:S2696µ"6Make the enclosing method "static" or remove this set.(ƒÈê 8ıæãÏ˜2
 g
-java:S3358²"DExtract this nested ternary operation into an independent statement.(”¶êòÿÿÿÿÿ8Õä©¬”2
+java:S3358º"DExtract this nested ternary operation into an independent statement.(”¶êòÿÿÿÿÿ8ıæãÏ˜2
 g
-java:S3358²"DExtract this nested ternary operation into an independent statement.(”¶êòÿÿÿÿÿ8Õä©¬”2
+java:S3358º"DExtract this nested ternary operation into an independent statement.(”¶êòÿÿÿÿÿ8ıæãÏ˜2
 U
-java:S6881¼"2Use virtual threads for heavy blocking operations.(€­íÜüÿÿÿÿ8Õä©¬”2
+java:S6881Ä"2Use virtual threads for heavy blocking operations.(€­íÜüÿÿÿÿ8ıæãÏ˜2
 U
-java:S6881¾"2Use virtual threads for heavy blocking operations.(€­íÜüÿÿÿÿ8Öä©¬”2
+java:S6881Æ"2Use virtual threads for heavy blocking operations.(€­íÜüÿÿÿÿ8ıæãÏ˜2
 
-java:S2142¿"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(™ßŞœıÿÿÿÿ8Öä©¬”2
+java:S2142Ç"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(™ßŞœıÿÿÿÿ8ıæãÏ˜2
 Y
-java:S2696Â"6Make the enclosing method "static" or remove this set.(«ñªÂûÿÿÿÿ8Öä©¬”2
+java:S2696Ê"6Make the enclosing method "static" or remove this set.(«ñªÂûÿÿÿÿ8ıæãÏ˜2
 T
-java:S2696Ã"6Make the enclosing method "static" or remove this set.(ƒÈê 8×ä©¬”2
+java:S2696Ë"6Make the enclosing method "static" or remove this set.(ƒÈê 8ıæãÏ˜2
 T
-java:S2696Ğ"6Make the enclosing method "static" or remove this set.(ƒÈê 8×ä©¬”2
+java:S2696Ø"6Make the enclosing method "static" or remove this set.(ƒÈê 8ıæãÏ˜2

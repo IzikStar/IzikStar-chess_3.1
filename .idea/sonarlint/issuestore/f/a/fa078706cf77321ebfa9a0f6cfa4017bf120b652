@@ -1,21 +1,27 @@
 
 ¢
-java:S1104"ZMake isPlayingWhite a static final constant or non-public and provide accessors if needed.(þ–—™ýÿÿÿÿ8‘ÂÊ®”2J$a801317c-054a-4225-a43e-d0b0e5da469f
+java:S1104"ZMake isPlayingWhite a static final constant or non-public and provide accessors if needed.(þ–—™ýÿÿÿÿ8‘ÂÊ®”2J$b2ac46b0-c63d-4a7d-ac39-919d17caa4c4
+¨
+java:S1104"`Make isEnginePlayingBlack a static final constant or non-public and provide accessors if needed.(§ÃŒíÿÿÿÿÿ8Ìù‘ý—2J$bce2465e-3324-4fbe-802f-a138b8d00bfb
 Ÿ
-java:S1104"WMake isOnePlayer a static final constant or non-public and provide accessors if needed.(ƒÿú‹ÿÿÿÿÿ8’ÂÊ®”2J$f29607a3-926c-4e77-b6c2-270e7fd5e5b3
+java:S1104"WMake isOnePlayer a static final constant or non-public and provide accessors if needed.(ƒÿú‹ÿÿÿÿÿ8’ÂÊ®”2J$37c2c537-e937-451a-818f-a452cfea84b3
 ¡
-java:S1104"YMake setSkillLevel a static final constant or non-public and provide accessors if needed.(±„ÈÒýÿÿÿÿ8”ÂÊ®”2J$d7f1b0b4-dbe9-4cee-b7ff-9f6975006dcc
-x
-java:S1104"[Make isComputersGame a static final constant or non-public and provide accessors if needed.(ñÚž¢8Ü³Ë®”2
-|
-java:S1444"4Make this "public static isPlayingWhite" field final(þ–—™ýÿÿÿÿ8•ÂÊ®”2J$15d6bfc3-f8d7-4a8d-9e18-b22275aefcb7
-y
-java:S1444"1Make this "public static isOnePlayer" field final(ƒÿú‹ÿÿÿÿÿ8–ÂÊ®”2J$162d9295-ddc6-4c88-8532-249eee3352b6
-{
-java:S1444"3Make this "public static setSkillLevel" field final(±„ÈÒýÿÿÿÿ8—ÂÊ®”2J$df74fc9d-3b90-478d-bd52-f5c671d6e058
-R
-java:S1444"5Make this "public static isComputersGame" field final(ñÚž¢8Þ³Ë®”2
+java:S1104"YMake setSkillLevel a static final constant or non-public and provide accessors if needed.(±„ÈÒýÿÿÿÿ8”ÂÊ®”2J$4d93d63a-1e49-4ad9-8cda-319694427c2e
 ž
-java:S1186	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(—œ¦¼8ß³Ë®”2
-:
-java:S1118	"Hide this public constructor.(—œ¦¼8à³Ë®”2
+java:S1104"[Make isComputersGame a static final constant or non-public and provide accessors if needed.(ñÚž¢8Ü³Ë®”2J$79d015dd-ed2f-423e-83d2-d0688f758ace
+|
+java:S1444"4Make this "public static isPlayingWhite" field final(þ–—™ýÿÿÿÿ8•ÂÊ®”2J$4a8dc27f-3323-456e-aec3-ee0898646fff
+‚
+java:S1444":Make this "public static isEnginePlayingBlack" field final(§ÃŒíÿÿÿÿÿ8Íù‘ý—2J$5976b691-b885-448f-a325-5116fec39af5
+y
+java:S1444"1Make this "public static isOnePlayer" field final(ƒÿú‹ÿÿÿÿÿ8–ÂÊ®”2J$5d652a67-9237-4c07-8381-5c327ea2d2f6
+{
+java:S1444"3Make this "public static setSkillLevel" field final(±„ÈÒýÿÿÿÿ8—ÂÊ®”2J$acd237dd-ebc0-4528-ab16-66118d1c5224
+x
+java:S1444"5Make this "public static isComputersGame" field final(ñÚž¢8Þ³Ë®”2J$5e7986f2-6990-4aa4-a42c-29dcbeb93f1f
+Ä
+java:S1186
+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(—œ¦¼8ß³Ë®”2J$130c6f29-55b0-424f-a4da-5884cd7bc4e2
+`
+java:S1118
+"Hide this public constructor.(—œ¦¼8à³Ë®”2J$2d6e9c64-195f-4747-b381-43942359672c

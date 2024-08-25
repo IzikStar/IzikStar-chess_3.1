@@ -1,96 +1,96 @@
 
-™	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ÓŞøÿÿÿÿ8×íï’2J$5ae99896-fa23-4bb9-b15d-f31ac5046c41
-™	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ÓŞøÿÿÿÿ8×íï’2J$483e4c3b-6c88-4d8e-ac9e-dbe81f17f621
-”	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡¼á„8×íï’2J$9465a480-9022-4919-b4cc-32245c72dbc5
-”	java:S117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Š°Ş8×íï’2J$bf93db38-b6e5-4803-8d72-dd4ef98ba0aa
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ö¿Æ¢ıÿÿÿÿ8×íï’2J$05a71645-ef01-44b1-a826-8d8f87f43b97
+™	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ÓŞøÿÿÿÿ8ƒÀøû—2J$afd87b0d-41c0-4cab-87d9-79781d1249d5
+™	java:S117—"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ÓŞøÿÿÿÿ8ƒÀøû—2J$f7fb6497-511a-43ae-a624-8af335868edd
+”	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡¼á„8ƒÀøû—2J$89f7d4b5-8b34-4340-b1cb-90ac74ae3d23
+”	java:S117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Š°Ş8ƒÀøû—2J$3989c220-a14b-47bd-8ed9-83e3b43523d6
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ö¿Æ¢ıÿÿÿÿ8„Àøû—2J$9faed9ec-c759-428e-a933-49d501a02540
 £
-java:S1104"[Make hasWhiteCastled a static final constant or non-public and provide accessors if needed.(õ«øÿÿÿÿ8×íï’2J$e666a761-a769-45da-b2d8-2fac17fc184d
+java:S1104"[Make hasWhiteCastled a static final constant or non-public and provide accessors if needed.(õ«øÿÿÿÿ8†Àøû—2J$d85b7f7b-8b90-4ae1-8446-b3c79b401b6e
 £
-java:S1104"[Make hasBlackCastled a static final constant or non-public and provide accessors if needed.(™—şıÿÿÿÿ8×íï’2J$5cf0568c-2c7d-4f8b-88f6-281674e96de6
+java:S1104"[Make hasBlackCastled a static final constant or non-public and provide accessors if needed.(™—şıÿÿÿÿ8†Àøû—2J$85fdd20c-06e2-4586-8403-30fd2b724916
 œ
-java:S1104"TMake lastMove a static final constant or non-public and provide accessors if needed.(„û÷ûÿÿÿÿ8×íï’2J$bdcbaab3-6b7c-4aca-ae30-1650c48e1974
+java:S1104"TMake lastMove a static final constant or non-public and provide accessors if needed.(„û÷ûÿÿÿÿ8†Àøû—2J$338aa8e2-2f08-483d-b1e3-53dcda19e6c0
 ´
-java:S1319é"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¿ïŸÎ8Ÿ×íï’2J$d308874f-35e6-4b30-b579-ee87698df21a
+java:S1319é"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¿ïŸÎ8ˆÀøû—2J$a1987ad7-b296-4a22-8f75-cdf7a31be35c
 ´
-java:S1319ø"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Éô˜¿8Ÿ×íï’2J$74505c46-394f-41e4-9dad-ef95f08c083c
+java:S1319ø"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Éô˜¿8ˆÀøû—2J$220ca430-a8b4-43b1-9846-f71e42431c0d
 ´
-java:S1319…"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÜÄõŒ8Ÿ×íï’2J$1298cf4a-5469-42d7-96ec-be2e4f95c486
+java:S1319…"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÜÄõŒ8ŠÀøû—2J$07df24ac-f043-4348-97e4-ab9d729b01e3
 ‘
-java:S1192‡"HDefine a constant instead of duplicating this literal "size = " 6 times.(Ó‡Äşüÿÿÿÿ8¨×íï’2J$28fdf2a2-0d95-4364-a87b-a8f7f2e3ab19
+java:S1192‡"HDefine a constant instead of duplicating this literal "size = " 6 times.(Ó‡Äşüÿÿÿÿ8­Àøû—2J$e27f5d88-81d6-4f11-89f2-0777f1a3f062
 
-java:S1659"HDeclare "whiteQueens" and all following declarations on a separate line.(ÿşüŞşÿÿÿÿ8«×íï’2J$c9481651-468e-40c1-9d07-5c2641d6fa1a
+java:S1659"HDeclare "whiteQueens" and all following declarations on a separate line.(ÿşüŞşÿÿÿÿ8¾Àøû—2J$90a05e67-7f2b-42a2-a702-9ba4d44ad084
 ‹
-java:S1659"HDeclare "blackQueens" and all following declarations on a separate line.(á×ˆ¹8«×íï’2J$4e0a9572-9758-444d-b631-a48c87015844
+java:S1659"HDeclare "blackQueens" and all following declarations on a separate line.(á×ˆ¹8¾Àøû—2J$68ede175-62e6-40b7-b63b-ecf8c2312c71
 q
-java:S1659")Declare "blackPieces" on a separate line.(ì¼ÙÅÿÿÿÿÿ8«×íï’2J$ab3dfee6-a76e-41d2-b1dc-8ec1be6b7883
+java:S1659")Declare "blackPieces" on a separate line.(ì¼ÙÅÿÿÿÿÿ8¿Àøû—2J$9356ebcc-66aa-4279-b6d8-d8bae0f9fe3e
 —
-java:S1659"TDeclare "canWhiteCastleQueenSide" and all following declarations on a separate line.(±àÜ°8«×íï’2J$10e44087-fa79-420c-81e5-c8a255e3a710
+java:S1659"TDeclare "canWhiteCastleQueenSide" and all following declarations on a separate line.(±àÜ°8¿Àøû—2J$e10779dc-61cf-4484-96d6-19ac7e15db2b
 ƒ
-java:S1659"@Declare "numOfTurnsWithoutCaptureOrPawnMove" on a separate line.(íÍ¦‰8«×íï’2J$b449ab25-ddc3-421e-9539-fcfc08ba1ace
-…	java:S107"BConstructor has 23 parameters, which is greater than 7 authorized.(¹ã™8­×íï’2J$294934fe-29d7-47c4-8d1c-abea550f8f37
+java:S1659"@Declare "numOfTurnsWithoutCaptureOrPawnMove" on a separate line.(íÍ¦‰8¿Àøû—2J$0aa93123-ee30-43cf-9450-07f961f18902
+…	java:S107"BConstructor has 23 parameters, which is greater than 7 authorized.(¹ã™8ÆÀøû—2J$c5a45fe8-b07c-41be-b985-66a576898412
 •
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 61 to the 15 allowed.(­…õ¬8®×íï’2J$3cadd105-88f5-4a19-8275-b0f5508b1285
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 61 to the 15 allowed.(­…õ¬8ËÀøû—2J$aa97591c-f4da-4887-b7b4-bd5a88cee261
 £
-java:S3923["[Remove this conditional structure or edit its code blocks so that they're not all the same.(ª‹Ö¤úÿÿÿÿ8¯×íï’2J$8d1169e5-7680-498b-8c83-9fc22adba8dc
-„	java:S125"<This block of commented-out lines of code should be removed.(ÆıÌ‡ÿÿÿÿÿ8³×íï’2J$919cb7a7-d345-4b3d-a92d-609112d465b9
+java:S3923["[Remove this conditional structure or edit its code blocks so that they're not all the same.(ª‹Ö¤úÿÿÿÿ8ÑÀøû—2J$f7466616-ca04-4d16-ba70-25dda4938c81
+„	java:S125"<This block of commented-out lines of code should be removed.(ÆıÌ‡ÿÿÿÿÿ8êÀøû—2J$3fdc7aac-89a0-4fd7-aa5c-6a9c2e1dc5c4
 ›
-java:S3776“"RRefactor this method to reduce its Cognitive Complexity from 84 to the 15 allowed.(¨¼±øÿÿÿÿ8´×íï’2J$86a0d863-2261-4ab4-85fa-df241ac30a19
+java:S3776“"RRefactor this method to reduce its Cognitive Complexity from 84 to the 15 allowed.(¨¼±øÿÿÿÿ8îÀøû—2J$f0b3b3e8-38e7-4702-aa66-655e58fe5fe2
 ƒ
-java:S1659”"?Declare "wQ" and all following declarations on a separate line.(ãÖ¢½8¶×íï’2J$42ac52d9-96a8-42f5-ad05-9b9d6ddb83a2
+java:S1659”"?Declare "wQ" and all following declarations on a separate line.(ãÖ¢½8öÀøû—2J$fdf5a471-29d0-45b5-85ab-987f22a7b57c
 ˆ
-java:S1659•"?Declare "bQ" and all following declarations on a separate line.(ÂíÙÎùÿÿÿÿ8¶×íï’2J$7ab33bf4-dbb9-4d4f-9cda-ca6611bea766
+java:S1659•"?Declare "bQ" and all following declarations on a separate line.(ÂíÙÎùÿÿÿÿ8÷Àøû—2J$aec6432f-3a95-4c6a-a902-d587545e7f8e
 ‡
-java:S1659—">Declare "Q" and all following declarations on a separate line.(×ÓŞøÿÿÿÿ8¶×íï’2J$8222cc77-53d3-4aef-8b6f-6f4a38e894ab
+java:S1659—">Declare "Q" and all following declarations on a separate line.(×ÓŞøÿÿÿÿ8÷Àøû—2J$9ae7cc49-aeda-4d06-bfff-ad3ba06b610c
 j
-java:S1659™"&Declare "nOTWCOPM" on a separate line.(—¹©8¶×íï’2J$8e454c21-d622-48d0-94ed-bd3000c7e1e8
+java:S1659™"&Declare "nOTWCOPM" on a separate line.(—¹©8÷Àøû—2J$89088afa-714d-4acc-a94a-afdf413b754f
 …
-java:S1117š"<Rename "lastMove" which hides the field declared at line 26.(‹ùæÖÿÿÿÿÿ8¶×íï’2J$6b603d3a-e030-4cb1-a700-07415adfbf49
+java:S1117š"<Rename "lastMove" which hides the field declared at line 26.(‹ùæÖÿÿÿÿÿ8÷Àøû—2J$9737320d-a331-4e0d-8fbb-dff862fe6d10
 v
-java:S1481š"-Remove this unused "lastMove" local variable.(‹ùæÖÿÿÿÿÿ8¶×íï’2J$d640381c-f8dc-4c7c-a68d-e1324950b17a
+java:S1481š"-Remove this unused "lastMove" local variable.(‹ùæÖÿÿÿÿÿ8øÀøû—2J$48db536b-3e1b-4aef-9372-a276f203c878
 †
-java:S1117"=Rename "moveValue" which hides the field declared at line 28.(¤ı°üúÿÿÿÿ8¶×íï’2J$ce67b27b-c3d0-4828-a171-29df056ec8ee
+java:S1117"=Rename "moveValue" which hides the field declared at line 28.(¤ı°üúÿÿÿÿ8øÀøû—2J$d268f442-356b-4417-bc0f-c6967304eb89
 
-java:S6880¢"6Replace the chain of if/else with a switch expression.(¾ä«’ÿÿÿÿÿ8¶×íï’2J$83b0843b-b519-4ce7-b4e0-af41e0f69954
+java:S6880¢"6Replace the chain of if/else with a switch expression.(¾ä«’ÿÿÿÿÿ8ùÀøû—2J$d72bda82-5110-42ad-9f07-dd04cba4611d
 
-java:S6880ô"6Replace the chain of if/else with a switch expression.(¾ä«’ÿÿÿÿÿ8·×íï’2J$f750adeb-0383-4023-b952-160a76a7bb77
+java:S6880ô"6Replace the chain of if/else with a switch expression.(¾ä«’ÿÿÿÿÿ8ƒÁøû—2J$04cd722c-5030-4a36-926e-e1023ce85902
 ‚
-java:S1117†">Rename "nextStates" which hides the field declared at line 25.(ö¤×Ã8º×íï’2J$9c17735b-219d-4048-b932-347f6c0dc2b0
+java:S1117†">Rename "nextStates" which hides the field declared at line 25.(ö¤×Ã8œÁøû—2J$020bbbf3-1e15-4fc0-a88d-86e736aa8f6b
 {
-java:S6126“"2Replace this String concatenation with Text block.(˜èÆşÿÿÿÿ8¼×íï’2J$aaa2e6ba-410f-467d-838f-5d78e1665b08
-n	java:S106›"+Replace this use of System.out by a logger.(Êå‚ª8¼×íï’2J$07e1e895-a263-4e53-95ce-ce1ea90e5136
+java:S6126“"2Replace this String concatenation with Text block.(˜èÆşÿÿÿÿ8£Áøû—2J$d04912dc-84c2-43fd-8fb1-676219aadda1
+n	java:S106›"+Replace this use of System.out by a logger.(Êå‚ª8£Áøû—2J$938fe1da-5b14-4539-93d4-f18ae4b120d6
 ‡
-java:S1117¢">Rename "nextStates" which hides the field declared at line 25.(çëÇ¤üÿÿÿÿ8¼×íï’2J$02787e45-6135-491a-8bc5-4b9514ee2a24
+java:S1117¢">Rename "nextStates" which hides the field declared at line 25.(çëÇ¤üÿÿÿÿ8¨Áøû—2J$a2db2af2-3f34-4397-928a-40de40dc8a92
 –
-java:S3776²"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ã›ãİ8½×íï’2J$32cafdef-635e-4c2d-8194-59c96f1bfe6a
+java:S3776²"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ã›ãİ8°Áøû—2J$bc4efb8d-529e-4900-bb12-90e4c6715254
 ‡
-java:S1117â">Rename "nextStates" which hides the field declared at line 25.(çëÇ¤üÿÿÿÿ8¿×íï’2J$d6b1e52e-fef1-4873-910c-10d77e8a35dd
+java:S1117â">Rename "nextStates" which hides the field declared at line 25.(çëÇ¤üÿÿÿÿ8ËÁøû—2J$9338104a-81dc-4005-859b-f3424834bec6
 ‡
-java:S1117î">Rename "nextStates" which hides the field declared at line 25.(çëÇ¤üÿÿÿÿ8À×íï’2J$cc878c74-d138-44ed-a9e4-42a7bda7bdc0
+java:S1117î">Rename "nextStates" which hides the field declared at line 25.(çëÇ¤üÿÿÿÿ8ËÁøû—2J$5b97ed7d-9d12-435c-b415-2a2b43a4aa72
 ‡
-java:S1117ú">Rename "nextStates" which hides the field declared at line 25.(çëÇ¤üÿÿÿÿ8Á×íï’2J$a92a3ddb-3b4d-47a6-aa3d-fa9d900ab480
+java:S1117ú">Rename "nextStates" which hides the field declared at line 25.(çëÇ¤üÿÿÿÿ8ËÁøû—2J$cbd40574-91f5-49a0-948c-d568fbb3933c
 ‡
-java:S1117†">Rename "nextStates" which hides the field declared at line 25.(çëÇ¤üÿÿÿÿ8Á×íï’2J$87ce553d-6835-4b67-8d25-8dd1e9148c6f
+java:S1117†">Rename "nextStates" which hides the field declared at line 25.(çëÇ¤üÿÿÿÿ8ÎÁøû—2J$aed81cea-1a1b-48c4-86a0-7744bd3dab79
 ‡
-java:S1117’">Rename "nextStates" which hides the field declared at line 25.(çëÇ¤üÿÿÿÿ8Â×íï’2J$20ba2f2b-9260-4d28-8e18-a6f7d3ee81a2
-	java:S125™"<This block of commented-out lines of code should be removed.(˜Š°Ş8Â×íï’2J$03face5a-7c69-419a-8726-198d416c30c5
-„	java:S125"<This block of commented-out lines of code should be removed.(ãñà™ùÿÿÿÿ8Ã×íï’2J$abf3bc91-a19e-4551-bfd0-ffd202d2af82
-	java:S125«"<This block of commented-out lines of code should be removed.(±—Œ³8Ã×íï’2J$1d3619b9-b6b6-4311-bfa3-01eb104f26a7
+java:S1117’">Rename "nextStates" which hides the field declared at line 25.(çëÇ¤üÿÿÿÿ8ÒÁøû—2J$70eba84d-88a0-4984-b8f0-9fca37f5d715
+	java:S125™"<This block of commented-out lines of code should be removed.(˜Š°Ş8ÔÁøû—2J$d033bf19-df08-462b-9074-b16810aedf46
+„	java:S125"<This block of commented-out lines of code should be removed.(ãñà™ùÿÿÿÿ8ÖÁøû—2J$a7b10b0d-d2d8-4de1-bb9b-30147e819c6d
+	java:S125«"<This block of commented-out lines of code should be removed.(±—Œ³8ÚÁøû—2J$1d0ef5a7-1c53-49fc-a4ff-80104ef5b59d
 ‹
-java:S1659µ"BDeclare "queen" and all following declarations on a separate line.(“è¿úÿÿÿÿ8Ä×íï’2J$38be7e1f-9ac1-40b4-b114-5bb3bd9915f1
-	java:S125Ô"<This block of commented-out lines of code should be removed.(ìşÍÁ8Å×íï’2J$a5bd8fb9-790d-40dc-b637-1f78bbe52c37
-„	java:S125İ"<This block of commented-out lines of code should be removed.(éëÊÃûÿÿÿÿ8Å×íï’2J$bfc4bed1-8344-4af9-91d6-de82482a719c
+java:S1659µ"BDeclare "queen" and all following declarations on a separate line.(“è¿úÿÿÿÿ8ŞÁøû—2J$17e46c53-ea25-412d-952b-388480b282b2
+	java:S125Ô"<This block of commented-out lines of code should be removed.(ìşÍÁ8åÁøû—2J$3570f288-f7b7-40d1-bb13-bfe8e3b13faf
+„	java:S125İ"<This block of commented-out lines of code should be removed.(éëÊÃûÿÿÿÿ8èÁøû—2J$c4ee0a6a-e094-45f7-b383-05da7802c0a7
 j
-java:S1659€"!Declare "end" on a separate line.(œÛ®«üÿÿÿÿ8Æ×íï’2J$3ddc71f7-47f2-47dc-8bc6-db73f69d78b4
-„	java:S125ô"<This block of commented-out lines of code should be removed.(ÁÆÇ‰úÿÿÿÿ8Ç×íï’2J$36b6fdd5-4b2d-4e10-9a0f-a0d040b349ab
-„	java:S125ù"<This block of commented-out lines of code should be removed.(‹­‚úÿÿÿÿ8Ç×íï’2J$8346c14f-bdef-4c5e-94b4-a8f77657732e
-n	java:S106ƒ"+Replace this use of System.out by a logger.(ÄÃ¼—8Ç×íï’2J$ed523523-ffcc-42fc-97fa-a0e030aefbec
-s	java:S106„"+Replace this use of System.out by a logger.(ş¯…Îÿÿÿÿÿ8Ç×íï’2J$fac6729f-2f5c-4657-a6a8-7275762957d3
-„	java:S125‡"<This block of commented-out lines of code should be removed.(‘üË¡ûÿÿÿÿ8Ç×íï’2J$beaa04b4-8e50-4cd6-b313-f3f4b618a5a6
-n	java:S106‰"+Replace this use of System.out by a logger.(ø¹ùå8Ç×íï’2J$39cc7bbb-bb00-4c1d-a920-e67f70aca44e
-n	java:S106Š"+Replace this use of System.out by a logger.(şñ³°8Ç×íï’2J$e349e8ec-5d7b-4699-8252-951c899f7efa
-s	java:S106Œ"+Replace this use of System.out by a logger.(®ô´øÿÿÿÿ8È×íï’2J$38bf071a-6327-456d-89aa-275540b4798f
-n	java:S106"+Replace this use of System.out by a logger.(„‰°†8È×íï’2J$d588fab6-cfe7-4ddd-8c13-292013247634
-s	java:S106“"+Replace this use of System.out by a logger.(Ñ®¿‡øÿÿÿÿ8È×íï’2J$59b6da51-ad00-4204-ac8e-5a4a013adba6
+java:S1659€"!Declare "end" on a separate line.(œÛ®«üÿÿÿÿ8ìÁøû—2J$ccabcc3f-df06-495c-85ce-294248c0160d
+„	java:S125ô"<This block of commented-out lines of code should be removed.(ÁÆÇ‰úÿÿÿÿ8ìÁøû—2J$d0f15504-20cc-48f9-98d5-6d635ac5fc79
+„	java:S125ù"<This block of commented-out lines of code should be removed.(‹­‚úÿÿÿÿ8íÁøû—2J$13c6f53f-bff8-4028-848f-5917c479862b
+n	java:S106ƒ"+Replace this use of System.out by a logger.(ÄÃ¼—8ğÁøû—2J$ad250a14-3e3d-4b80-aae7-e1412504d9e9
+s	java:S106„"+Replace this use of System.out by a logger.(ş¯…Îÿÿÿÿÿ8ñÁøû—2J$e128ecba-3510-4b2a-b5f5-dc4846b32d4d
+„	java:S125‡"<This block of commented-out lines of code should be removed.(‘üË¡ûÿÿÿÿ8ñÁøû—2J$2385fe76-d314-401b-9c92-d6fca143d599
+n	java:S106‰"+Replace this use of System.out by a logger.(ø¹ùå8òÁøû—2J$12cb9b6d-22a8-43df-bd68-3553e5fc0218
+n	java:S106Š"+Replace this use of System.out by a logger.(şñ³°8òÁøû—2J$d1c21cb0-877e-4749-8154-8eaeadb1a827
+s	java:S106Œ"+Replace this use of System.out by a logger.(®ô´øÿÿÿÿ8ôÁøû—2J$29ae70b4-ec6b-4a12-88b2-4f4b463319d1
+n	java:S106"+Replace this use of System.out by a logger.(„‰°†8õÁøû—2J$cf7dbd06-5620-4886-8ca6-cb2dd526f865
+s	java:S106“"+Replace this use of System.out by a logger.(Ñ®¿‡øÿÿÿÿ8öÁøû—2J$e308229c-7097-4b80-ba38-58b98e24f39b
 
-java:S6541“"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 184 to 64, Complexity from 52 to 14, Nesting Level from 3 to 2, Number of Variables from 31 to 6.(¨¼±øÿÿÿÿ8Ò×íï’2J$2c6167a7-6cca-4567-9f01-3b0b0d9d6fcd
+java:S6541“"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 184 to 64, Complexity from 52 to 14, Nesting Level from 3 to 2, Number of Variables from 31 to 6.(¨¼±øÿÿÿÿ8øÁøû—2J$eff9eb03-c431-42f1-99eb-9f273778ea93

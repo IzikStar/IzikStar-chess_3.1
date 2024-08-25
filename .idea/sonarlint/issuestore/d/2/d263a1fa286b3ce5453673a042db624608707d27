@@ -1,108 +1,108 @@
 
 k
-java:S1604C"(Make this anonymous inner class a lambda(áá8È«É®”2J$9a00afe4-1f98-425f-bcb4-d1d0fc159fa2
+java:S1604C"(Make this anonymous inner class a lambda(áá8È«É®”2J$daeec026-c834-4fda-b3cf-72d0ca98475d
 œ
-java:S1104"TMake tileSize a static final constant or non-public and provide accessors if needed.(Ï©úÄùÿÿÿÿ8Ë«É®”2J$cbe94291-e5a4-4f6b-8c19-2efcfe8b6acb
+java:S1104"TMake tileSize a static final constant or non-public and provide accessors if needed.(Ï©úÄùÿÿÿÿ8Ë«É®”2J$d1cbe261-8e66-4e2a-91d4-a184290d8077
 “
-java:S1104"PMake cols a static final constant or non-public and provide accessors if needed.(¶¤åï8Ë«É®”2J$319af6b3-52b3-4702-9796-9c86c65e2d60
+java:S1104"PMake cols a static final constant or non-public and provide accessors if needed.(¶¤åï8Ë«É®”2J$94d7a5df-e4e8-463d-ab89-fade090b8c92
 “
-java:S1104"PMake rows a static final constant or non-public and provide accessors if needed.(Âş¸±8Ë«É®”2J$2737cf2f-fd14-4a9b-a0ac-9cc8ca0189cb
+java:S1104"PMake rows a static final constant or non-public and provide accessors if needed.(Âş¸±8Ë«É®”2J$806b461d-1a48-4544-87bd-284b7c7235ff
 œ
-java:S1104#"YMake selectedPiece a static final constant or non-public and provide accessors if needed.(¶¨¿€8Ë«É®”2J$914549c5-b2ff-4b36-947b-a0706a162ae7
+java:S1104#"YMake selectedPiece a static final constant or non-public and provide accessors if needed.(¶¨¿€8Ë«É®”2J$3eba9795-fe49-49c2-b15e-19ee43e5d957
 ™
-java:S1104%"VMake isGameOver a static final constant or non-public and provide accessors if needed.(²ğ“ö8Ë«É®”2J$a09c47ab-d50f-4738-baaa-c92c6eab53a8
+java:S1104%"VMake isGameOver a static final constant or non-public and provide accessors if needed.(²ğ“ö8Ë«É®”2J$05aa7f33-a6a2-4ee4-a02c-c52b8d51422c
 Ÿ
-java:S1104'"WMake savedStates a static final constant or non-public and provide accessors if needed.(îÁÎôıÿÿÿÿ8Ì«É®”2J$50247072-170f-44ab-9656-dcc9e5fd00d1
+java:S1104'"WMake savedStates a static final constant or non-public and provide accessors if needed.(îÁÎôıÿÿÿÿ8Ì«É®”2J$694b396f-21a9-4eb6-9c3b-70ce6f475b60
 
-java:S1104("VMake savedMoves a static final constant or non-public and provide accessors if needed.(ú¹ßşÿÿÿÿ8Ì«É®”2J$6b8160ae-6080-4234-b09d-12fd30764cfe
+java:S1104("VMake savedMoves a static final constant or non-public and provide accessors if needed.(ú¹ßşÿÿÿÿ8Ì«É®”2J$6f0184f0-ffbf-48b3-96a5-ecaa90316381
 ”
-java:S1104+"QMake input a static final constant or non-public and provide accessors if needed.(ÖÇá¶8Ì«É®”2J$78ac3c2f-9b32-4f52-bce6-0e326f2550e6
+java:S1104+"QMake input a static final constant or non-public and provide accessors if needed.(ÖÇá¶8Ì«É®”2J$98c19b6f-c8fc-4fc8-a11e-1d7af501d0f4
 
-java:S11042"UMake hintFromC a static final constant or non-public and provide accessors if needed.(û±–šÿÿÿÿÿ8Ì«É®”2J$98e79468-9791-4a57-986e-9cb460555e72
+java:S11042"UMake hintFromC a static final constant or non-public and provide accessors if needed.(û±–šÿÿÿÿÿ8Ì«É®”2J$590aaeea-f700-4222-b16d-949bf0e8e15f
 
-java:S11042"UMake hintFromR a static final constant or non-public and provide accessors if needed.(û±–šÿÿÿÿÿ8Ì«É®”2J$011216c9-89ca-403d-a124-8ff9eee72f5a
+java:S11042"UMake hintFromR a static final constant or non-public and provide accessors if needed.(û±–šÿÿÿÿÿ8Ì«É®”2J$fd149598-b3d7-4763-8d0e-d82ff9ba1d7e
 ›
-java:S11042"SMake hintToC a static final constant or non-public and provide accessors if needed.(û±–šÿÿÿÿÿ8Ì«É®”2J$7b6c96d1-eeb9-4c54-a12d-baff180823ae
+java:S11042"SMake hintToC a static final constant or non-public and provide accessors if needed.(û±–šÿÿÿÿÿ8Ì«É®”2J$e0d3c3cd-7299-4ea2-99c3-49bb6fe88fbf
 ›
-java:S11042"SMake hintToR a static final constant or non-public and provide accessors if needed.(û±–šÿÿÿÿÿ8Ì«É®”2J$319ccd06-38ef-463f-b28b-9a301b7fb04d
+java:S11042"SMake hintToR a static final constant or non-public and provide accessors if needed.(û±–šÿÿÿÿÿ8Ì«É®”2J$1df6c3a1-016b-40a3-8ff5-ffc25f67f853
 £
-java:S11044"[Make promotionChoice a static final constant or non-public and provide accessors if needed.(İæù•ıÿÿÿÿ8Ì«É®”2J$41c5fac0-ceb4-42bd-a245-cd6c2043eeda
-x
-java:S1066"/Merge this if statement with the enclosing one.(Åû ìşÿÿÿÿ8Í«É®”2J$6cdca7be-e0d5-4c28-bf00-13c7d1380c91
+java:S11044"[Make promotionChoice a static final constant or non-public and provide accessors if needed.(İæù•ıÿÿÿÿ8Ì«É®”2J$b5937aa5-0a45-4547-9722-1042e52ebee4
+R
+java:S1066"/Merge this if statement with the enclosing one.(Åû ìşÿÿÿÿ8Ï¶ğÎ˜2
 v
-java:S1444".Make this "public static tileSize" field final(Ï©úÄùÿÿÿÿ8Ù«É®”2J$133a704b-1375-44f9-906a-f28abca4556f
+java:S1444".Make this "public static tileSize" field final(Ï©úÄùÿÿÿÿ8Ù«É®”2J$957bb76a-f028-446c-ab7c-426a6172af02
 m
-java:S1444"*Make this "public static cols" field final(¶¤åï8Ù«É®”2J$d1f8acb2-8d76-4eb8-8d8e-c1104a96f311
+java:S1444"*Make this "public static cols" field final(¶¤åï8Ù«É®”2J$8e4ebd34-0505-4351-bab1-c5fe4ac8c298
 m
-java:S1444"*Make this "public static rows" field final(Âş¸±8Ù«É®”2J$a505219a-1d92-42e3-ad48-63baa21c071e
+java:S1444"*Make this "public static rows" field final(Âş¸±8Ù«É®”2J$d2d6adb9-ae28-4999-99c7-480f095335e6
 v
-java:S1444#"3Make this "public static selectedPiece" field final(¶¨¿€8Ù«É®”2J$0d94f69a-fc4a-4353-868e-ce9b3957522a
-¡	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(£ÔÒ•úÿÿÿÿ8ß«É®”2J$e541abda-f85d-494f-844f-c3187ed36972
+java:S1444#"3Make this "public static selectedPiece" field final(¶¨¿€8Ù«É®”2J$f64a5008-968b-4fa1-b5f3-23f7e6d19d2c
+¡	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(£ÔÒ•úÿÿÿÿ8ß«É®”2J$35134708-1c55-40cb-b31a-edbb1c48e888
 
-java:S16592"FDeclare "hintFromR" and all following declarations on a separate line.(û±–šÿÿÿÿÿ8ì«É®”2J$02cadbbc-c427-4c56-a404-e5f083d0d461
+java:S16592"FDeclare "hintFromR" and all following declarations on a separate line.(û±–šÿÿÿÿÿ8ì«É®”2J$1a540e40-187c-4961-9617-a2a862fc2fe8
 …
-java:S16593"BDeclare "fromR" and all following declarations on a separate line.(æÎÓ8ì«É®”2J$c7ad964a-1264-4187-adfc-df042c996951
+java:S16593"BDeclare "fromR" and all following declarations on a separate line.(æÎÓ8ì«É®”2J$9ee1b845-2d0a-44ba-82c7-f592a747ce9b
 j
-java:S1948!"'Make "state" transient or serializable.(öıé·8î«É®”2J$5bf26ac6-2eff-4672-907d-e0b998633862
+java:S1948!"'Make "state" transient or serializable.(öıé·8î«É®”2J$1b6c7d71-276b-4532-96a4-89f42dadcb4c
 j
-java:S1948+"'Make "input" transient or serializable.(ÖÇá¶8ğ«É®”2J$c4d66c84-2e7a-446d-8f9e-2edffda2672c
+java:S1948+"'Make "input" transient or serializable.(ÖÇá¶8ğ«É®”2J$1a3290b1-69b2-4e14-b058-5642059c4ca6
 p
-java:S1948,"-Make "audioPlayer" transient or serializable.(ãËÎı8ñ«É®”2J$06367dd2-989a-4571-9fab-e328510fc729
+java:S1948,"-Make "audioPlayer" transient or serializable.(ãËÎı8ñ«É®”2J$6d558b57-e3c9-49c4-a957-bd0b6e2d9ff8
 n
-java:S1948-"+Make "animation" transient or serializable.(ä’¥×8ò«É®”2J$ebd13f36-74d9-41fa-93ef-f09e84c1c66b
+java:S1948-"+Make "animation" transient or serializable.(ä’¥×8ò«É®”2J$1836f927-f9f5-494e-8ecc-a9a6c7a8c264
 n
-java:S1948/"+Make "showScore" transient or serializable.(’Ã“8ó«É®”2J$4ad28aff-3cf3-40aa-a09d-f2fddd3a273d
+java:S1948/"+Make "showScore" transient or serializable.(’Ã“8ó«É®”2J$9224b990-e16d-47ad-ae99-b17410b3afbe
 ˜
-java:S1149'"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(îÁÎôıÿÿÿÿ8ó«É®”2J$891a5488-7af8-498b-aede-44e28f31e35f
+java:S1149'"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(îÁÎôıÿÿÿÿ8ó«É®”2J$e90595e5-e0e3-4758-9d56-64c3efb20df2
 ˜
-java:S1149("PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ú¹ßşÿÿÿÿ8ó«É®”2J$8ade016b-aa9d-40aa-a9c5-18bf7ca878ed
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(ìŞ¨Âıÿÿÿÿ8ó«É®”2J$00f06c36-36b0-4716-bc8b-f953e8a1b5f4
+java:S1149("PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ú¹ßşÿÿÿÿ8ó«É®”2J$70edad30-ede6-4e62-b252-faf90d5eb883
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ìŞ¨Âıÿÿÿÿ8ó«É®”2J$06f193a9-08bd-42e4-8f10-218a6408c45b
 •
-java:S3776P"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(³ıŸê8ÿ«É®”2J$89fcb1a9-e65f-40f9-a7a6-6b11fa85c79b
+java:S3776P"RRefactor this method to reduce its Cognitive Complexity from 45 to the 15 allowed.(³ıŸê8ÿ«É®”2J$65490b05-7f69-4590-9f67-e22d85356dcc
 }
-java:S1161P":Add the "@Override" annotation above this method signature(³ıŸê8ÿ«É®”2J$abb7f748-3ad3-4650-9ebb-382085567c18
-~	java:S125\"<This block of commented-out lines of code should be removed.(Ş½¿«8„¬É®”2J$2be8442e-f5d4-452e-9a0e-f582bf657b55
-ƒ	java:S125{"<This block of commented-out lines of code should be removed.(®Íˆ—ùÿÿÿÿ8¬É®”2J$0e97084c-12a7-42e8-9c06-4ab86c4d0498
+java:S1161P":Add the "@Override" annotation above this method signature(³ıŸê8ÿ«É®”2J$64b98293-5ebe-4988-ab8d-0313ce4b5161
+~	java:S125\"<This block of commented-out lines of code should be removed.(Ş½¿«8„¬É®”2J$7ff0760f-11d7-4a2a-9fe9-d8b087a6988c
+ƒ	java:S125{"<This block of commented-out lines of code should be removed.(®Íˆ—ùÿÿÿÿ8¬É®”2J$7ddb8275-3fea-4751-a897-96ef343a5e72
 
-java:S1117œ"=Rename "animation" which hides the field declared at line 45.(º¡Ò¸8‘¬É®”2J$186c590b-1aed-4423-aa50-5050db2bcf0c
+java:S1117œ"=Rename "animation" which hides the field declared at line 45.(º¡Ò¸8‘¬É®”2J$e62d3788-fbb6-4e3e-822d-d7d8da0f4850
 –
-java:S3776æ"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¾§ˆÊ8›¬É®”2J$1efe8e94-b85f-4ae9-9661-2f115a8cdd56
+java:S3776æ"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¾§ˆÊ8›¬É®”2J$135d1ee9-5eac-42f0-aea8-56ab71cf5b0b
 m
-java:S1940ù")Use the opposite operator ("!=") instead.(Ô¤˜ş8¬É®”2J$7fe2edbb-6f29-4fbc-a218-47d0c50a6382
-	java:S125†"<This block of commented-out lines of code should be removed.(£óÑş8Ÿ¬É®”2J$1fd51b16-7f49-44ff-9512-94b5653f8dff
-„	java:S125š"<This block of commented-out lines of code should be removed.(ò£ƒùÿÿÿÿ8¡¬É®”2J$8fef02f6-a4a7-4983-89a3-979d60adf2f7
+java:S1940ù")Use the opposite operator ("!=") instead.(Ô¤˜ş8¬É®”2J$612146f7-03c4-4f1e-9b3c-3ebd916e64a0
+	java:S125†"<This block of commented-out lines of code should be removed.(£óÑş8Ÿ¬É®”2J$8c2ba783-4e8c-4392-bf3c-15041679394e
+„	java:S125š"<This block of commented-out lines of code should be removed.(ò£ƒùÿÿÿÿ8¡¬É®”2J$6a339e46-7154-4308-b7dd-8868abca8596
 –
-java:S3776Ü"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(½µĞä8¨¬É®”2J$c5ff5890-a2e5-49e7-892b-3e597d3c3516
-J
-java:S1125í"'Remove the unnecessary boolean literal.(ÖË±Üúÿÿÿÿ8ß’Ê®”2
-s	java:S106÷"+Replace this use of System.out by a logger.(ÿÂÉ±øÿÿÿÿ8ª¬É®”2J$cbbd1a33-e048-40da-9ced-8bfb3059ab11
+java:S3776Ü"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(½µĞä8¨¬É®”2J$b1b8e750-f9e6-4810-b89a-6343a20eb642
+p
+java:S1125í"'Remove the unnecessary boolean literal.(ÖË±Üúÿÿÿÿ8ß’Ê®”2J$f8c03e56-917b-4bf2-979f-f0eec5513665
+s	java:S106÷"+Replace this use of System.out by a logger.(ÿÂÉ±øÿÿÿÿ8ª¬É®”2J$8eff9cfe-481d-44d1-8de7-c3d4f87ee96e
 {
-java:S6881ş"2Use virtual threads for heavy blocking operations.(€­íÜüÿÿÿÿ8«¬É®”2J$e5815f04-a8c9-4b0c-8e1a-dd4eeae666d6
+java:S6881ş"2Use virtual threads for heavy blocking operations.(€­íÜüÿÿÿÿ8«¬É®”2J$1e014155-9dfe-4bb0-b1c8-5d020e46a1b3
 §
-java:S2142€"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(™ßŞœıÿÿÿÿ8­¬É®”2J$092d2839-22a8-4a03-a4f7-b01b6b1862c6
+java:S2142€"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(™ßŞœıÿÿÿÿ8­¬É®”2J$c45a5715-0bc2-4307-8976-09ceaeae87fd
 {
-java:S6881“"2Use virtual threads for heavy blocking operations.(€­íÜüÿÿÿÿ8¯¬É®”2J$bee8695e-b0f9-4265-a076-f6b735542ee8
+java:S6881“"2Use virtual threads for heavy blocking operations.(€­íÜüÿÿÿÿ8¯¬É®”2J$2b567231-447f-426b-bbcf-39e1567af121
 §
-java:S2142•"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(™ßŞœıÿÿÿÿ8¯¬É®”2J$0ce27b11-d836-43a5-aa5c-cc89ba820417
-s	java:S106›"+Replace this use of System.out by a logger.(¤íÂ—ıÿÿÿÿ8°¬É®”2J$ce6bdc1a-e29d-4b0e-bec9-b9b3605dfca3
+java:S2142•"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(™ßŞœıÿÿÿÿ8¯¬É®”2J$e3ebf90c-802e-4cbc-a4ca-4b77a484e989
+s	java:S106›"+Replace this use of System.out by a logger.(¤íÂ—ıÿÿÿÿ8°¬É®”2J$5705b472-da6b-4b2b-aa34-cb0940752fb9
 y
-java:S2696"6Make the enclosing method "static" or remove this set.(”­Ú8±¬É®”2J$0b5ea3dc-8cd9-4aaf-bef7-74d782cb99fa
-s	java:S106ª"+Replace this use of System.out by a logger.(ÖÂ«éÿÿÿÿÿ8³¬É®”2J$ecba0919-78d4-4825-9e8a-193417209973
-n	java:S106¬"+Replace this use of System.out by a logger.(ïñ¾¯8³¬É®”2J$e290a2b3-4876-4a15-983c-421cb45f01e3
-n	java:S106®"+Replace this use of System.out by a logger.(‘˜ˆ€8³¬É®”2J$cc0f1c5e-5355-4f9c-8909-5dd663f7b3b4
-e	java:S131¯""Add a default case to this switch.(¨ÕÉ8´¬É®”2J$8edb8021-41b4-4bd4-83a0-95f534af05b5
-	java:S125Ä"<This block of commented-out lines of code should be removed.(²”ÿ•8·¬É®”2J$5c921843-bf5b-4ffe-9d69-7e2219a71401
-„	java:S125Æ"<This block of commented-out lines of code should be removed.(à€ùˆùÿÿÿÿ8·¬É®”2J$17da8884-524e-46d3-a0ca-2361acbd379b
+java:S2696"6Make the enclosing method "static" or remove this set.(”­Ú8±¬É®”2J$ea46adb7-8155-43fb-b2f0-8ec5a2bf1aa0
+s	java:S106ª"+Replace this use of System.out by a logger.(ÖÂ«éÿÿÿÿÿ8³¬É®”2J$4d6c286e-a680-4e92-8b6c-c93e77ea4c8a
+n	java:S106¬"+Replace this use of System.out by a logger.(ïñ¾¯8³¬É®”2J$38dbd893-867d-4b67-9d4e-d52616dcf3fd
+n	java:S106®"+Replace this use of System.out by a logger.(‘˜ˆ€8³¬É®”2J$373be877-0cb8-4e13-bf91-0623f8f92bdc
+e	java:S131¯""Add a default case to this switch.(¨ÕÉ8´¬É®”2J$ec65da1c-f553-4f51-9349-987843ac833f
+	java:S125Ä"<This block of commented-out lines of code should be removed.(²”ÿ•8·¬É®”2J$79fa6441-4d43-4f90-b5c2-f92ef80a4c20
+„	java:S125Æ"<This block of commented-out lines of code should be removed.(à€ùˆùÿÿÿÿ8·¬É®”2J$74cef3cc-fa35-4fea-b227-08aee969ed35
 y
-java:S2696Î"6Make the enclosing method "static" or remove this set.(”­Ú8¸¬É®”2J$26172b97-f7ec-4d6d-8a52-4c9d04f9569d
-n	java:S106Ö"+Replace this use of System.out by a logger.(‰å“™8¹¬É®”2J$b171b403-fe0e-411e-8b86-22f105ff22fa
+java:S2696Î"6Make the enclosing method "static" or remove this set.(”­Ú8¸¬É®”2J$0da38d57-c356-4647-824d-45f742ee3868
+n	java:S106Ö"+Replace this use of System.out by a logger.(‰å“™8¹¬É®”2J$fe8e351d-3528-41fb-a5df-05f6ffa53c73
 
-java:S2696î"6Make the enclosing method "static" or remove this set.(Ô˜İ÷ùÿÿÿÿ8»¬É®”2J$2dafe219-02ae-444a-934a-33ef69eb3540
+java:S2696î"6Make the enclosing method "static" or remove this set.(Ô˜İ÷ùÿÿÿÿ8»¬É®”2J$3077492b-4c5a-4536-8032-e1dd6dc2672f
 ›
-java:S3776ş"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(âƒŒ¿ıÿÿÿÿ8½¬É®”2J$ea20e854-3004-49fa-809f-e1708491b7be
-„	java:S125Œ"<This block of commented-out lines of code should be removed.(Ìşîüşÿÿÿÿ8Á¬É®”2J$28778896-ec5d-4022-859f-aaa28954f037
-„	java:S125›"<This block of commented-out lines of code should be removed.(ÕĞŸÚúÿÿÿÿ8Â¬É®”2J$b62c37ae-cc1c-417b-ab39-a289358c46c6
-„	java:S125¤"<This block of commented-out lines of code should be removed.(ò¨÷§øÿÿÿÿ8Ä¬É®”2J$b01f4597-5704-4763-bc40-0dd5741217e3
-	java:S125¦"<This block of commented-out lines of code should be removed.(õ†¼Î8Å¬É®”2J$d20d96b5-96cc-4e16-9347-de24bc75ae61
+java:S3776ş"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(âƒŒ¿ıÿÿÿÿ8½¬É®”2J$afaf982f-dfa8-49dd-96db-cf263f6f262d
+„	java:S125Œ"<This block of commented-out lines of code should be removed.(Ìşîüşÿÿÿÿ8Á¬É®”2J$f973fd04-1534-4144-91cc-5177d6c8d2e9
+„	java:S125›"<This block of commented-out lines of code should be removed.(ÕĞŸÚúÿÿÿÿ8Â¬É®”2J$82b41f82-ab8c-4343-a36e-2aec1adbb58a
+„	java:S125¤"<This block of commented-out lines of code should be removed.(ò¨÷§øÿÿÿÿ8Ä¬É®”2J$cfdf4345-1d11-4363-ac6d-1d6bd9ce6ecc
+	java:S125¦"<This block of commented-out lines of code should be removed.(õ†¼Î8Å¬É®”2J$0fb19a9b-0dc4-4bb3-b8e6-9eb2cca7d5fb
 ‰
-java:S6541P"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 71 to 64, Complexity from 18 to 14, Nesting Level from 6 to 2, Number of Variables from 14 to 6.(³ıŸê8Æ¬É®”2J$195e8600-be8f-4c1e-a7de-7861184f3709
+java:S6541P"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 71 to 64, Complexity from 18 to 14, Nesting Level from 6 to 2, Number of Variables from 14 to 6.(³ıŸê8Æ¬É®”2J$3507ef1f-062c-4627-9517-4d82770f51f1
